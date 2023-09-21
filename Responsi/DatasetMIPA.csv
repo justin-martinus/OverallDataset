@@ -1,0 +1,556 @@
+﻿Timestamp,Jenis Kelamin,Bulan Lahir,Tinggi Badan (cm),Berat Badan (cm),Jumlah Saudara Kandung,Jumlah Pasang Sepatu yang dimiliki,Tempat Tinggal,Kota Asal,Asal SMA,Nama SMA Asal,Hobi,Program Studi,Kelas PSD
+8/29/2023 20:19,Laki-laki,Oktober,168,55,1,4,Kos,Luar Jabodetabek,Negeri,SMAN 1 TEBING TINGGI,Traveling,Geologi,MIPA C
+8/29/2023 20:19,Laki-laki,April,165,49,0,1,Dengan Orang Tua,Bekasi,Negeri,SMAN 3 Bekasi,"Olahraga futsal, gitar, otak atik komponen komputer",Fisika,MIPA C
+8/29/2023 20:20,Perempuan,Maret,160,80,1,1,Dengan Orang Tua,Depok,Negeri,SMA Negeri 99 Jakarta,Menonton Film,Kimia,MIPA I
+8/29/2023 20:20,Perempuan,Agustus,160,40,2,5,Dengan Orang Tua,Jakarta,Swasta,SMA Islam PB Soedirman,Mendengarkan musik,Kimia,MIPA C
+8/29/2023 20:20,Laki-laki,Oktober,178,82,2,5,Kos,Tangerang,Swasta,Taruna Nusantara,Olahraga,Aktuaria,Matematika C
+8/29/2023 20:21,Perempuan,Oktober,150cm,45,1,10,Dengan Orang Tua,Bogor,Negeri,SMA NEGERI 1 CIBINONG ,Membaca,Geofisika,MIPA I
+8/29/2023 20:21,Perempuan,Juli,157,43,2,2,Dengan Orang Tua,Bogor,Swasta,SMA AL GHAZALY ,Membaca,Matematika,Matematika C
+8/29/2023 20:21,Laki-laki,Agustus,170,75,1,4,Dengan Orang Tua,Jakarta,Swasta,SMA ISLAM AL AZHAR 3,Traveling,Kimia,MIPA C
+8/29/2023 20:21,Perempuan,Maret,165 cm,51 kg,1,4,Kos,Jakarta,Negeri,SMAN 65 Jakarta ,Membaca,Geografi,MIPA C
+8/29/2023 20:21,Perempuan,Juli,154,43,1,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 BANUHAMPU,Memasak,Geofisika,MIPA C
+8/29/2023 20:22,Laki-laki,Agustus,175,58,2,2,Dengan Orang Tua,Bekasi,Swasta,SMA YADIKA 11 ,Bermain Volly,Kimia,MIPA C
+8/29/2023 20:23,Perempuan,Mei,160,53,1,2,Kos,Jakarta,Swasta,SMA DON BOSCO 1,Membaca,Statistika,Matematika C
+8/29/2023 20:23,Perempuan,Oktober,168,70,0,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 91 Jakarta,menyanyi,Matematika,Matematika C
+8/29/2023 20:23,Laki-laki,April,170,45,2,2,Kos,Luar Jabodetabek,Negeri,SMAN 2 Purwokerto,bermain basket,Kimia,MIPA C
+8/29/2023 20:23,Perempuan,Januari,163 cm,70 kg,2 saudara kandung ,3 pasang sepatu,Dengan Orang Tua,Bekasi,Negeri,SMAN 1 Jakarta ,Mendengarkan Musik,Geofisika,MIPA I
+8/29/2023 20:23,Laki-laki,Maret,173,69,3,2,Dengan Orang Tua,Jakarta,Negeri,Sman 88 jakarta,Basket,Geografi,MIPA I
+8/29/2023 20:23,Laki-laki,April,180,90,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 68 Jakarta,Bermain musik,Statistika,Matematika C
+8/29/2023 20:24,Laki-laki,April,175,62,1,2,Kos,Jakarta,Negeri,SMAN 2 Jakarta,Membaca,Aktuaria,Matematika C
+8/29/2023 20:24,Perempuan,Juli,173,60,2,2,Kos,Jakarta,Negeri,SMAN 12 JAKARTA,Membaca,Statistika,Matematika C
+8/29/2023 20:24,Perempuan,Mei,154 cm,40 kg,2,5,Kos,Tangerang,Negeri,SMAN 6 Jakarta,Mendengarkan lagu,Kimia,MIPA C
+8/29/2023 20:24,Laki-laki,Februari,165,85,1,5 pasang,Dengan Orang Tua,Bogor,Negeri,SMAN 2 Cibinong,badminton,Geografi,MIPA I
+8/29/2023 20:25,Laki-laki,Oktober,160,62,1,2,Kos,Luar Jabodetabek,Negeri,SMAN 2 SUKABUMI ,Membaca,Aktuaria,Matematika C
+8/29/2023 20:26,Laki-laki,April,175,85,0,4,Kos,Luar Jabodetabek,Negeri,SMAN 21 SURABAYA,bermain game dan explore tempat,Kimia,MIPA I
+8/29/2023 20:26,Laki-laki,Mei,165,69,2,3,Dengan Orang Tua,Jakarta,Swasta,SMA Hang Tuah 1 Jakarta,Main game,Fisika,MIPA C
+8/29/2023 20:26,Laki-laki,Oktober,174,68,1,3,Dengan Orang Tua,Bekasi,Negeri,SMAN 81 Jakarta,Traveling,Statistika,Matematika C
+8/29/2023 20:27,Perempuan,Juni,159,55 kg,2,4,Dengan Orang Tua,Bogor,Swasta,SMAS YPHB,Membaca,Fisika,MIPA J
+8/29/2023 20:27,Laki-laki,Agustus,163,66,1,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,Traveling,Statistika,Matematika C
+8/29/2023 20:27,Perempuan,Oktober,148,45,1,4,Dengan Orang Tua,Bogor,Negeri,SMK-SMAK Bogor,Membaca,Geofisika,MIPA I
+8/29/2023 20:27,Laki-laki,Oktober,161,40,4,1,Dengan Orang Tua,Jakarta,Swasta,SMA Trisakti ,Membaca,Geografi,MIPA J
+8/29/2023 20:27,Laki-laki,September,175,100,0,2,Dengan Orang Tua,Bogor,Negeri,SMA NEGERI 1 PARUNG,Traveling,Geografi,MIPA C
+8/29/2023 20:28,Perempuan,September,160,47,3,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 1 JAKARTA,Traveling,Geofisika,MIPA J
+8/29/2023 20:28,Laki-laki,Mei,167,78,5,3,Kos,Jakarta,Negeri,SMAN 68 Jakarta,kegiatan outdoor,Aktuaria,Matematika A
+8/29/2023 20:28,Perempuan,Agustus,166,51,2,5,Kos,Luar Jabodetabek,Negeri,MAN 2 Kota Serang,Traveling,Geofisika,MIPA J
+8/29/2023 20:28,Perempuan,Agustus,151,42,2,2,Dengan Orang Tua,Tangerang,Negeri,SMAN 7 Jakarta,futsal,Kimia,MIPA J
+8/29/2023 20:28,Laki-laki,Agustus,168,60,1,2,Kos,Luar Jabodetabek,Negeri,MAN Cimahi,"Catur, musik, membaca/menulis novel",Matematika,Matematika A
+8/29/2023 20:28,Perempuan,Juni,155,50,2,2,Dengan Orang Tua,Tangerang,Swasta,SMAS 2 Kristen Kalam Kudus Jakarta,Olahraga,Matematika,Matematika A
+8/29/2023 20:28,Perempuan,Desember,168,55,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 99 Jakarta,mendengarkan lagu dan menonton series/film,Kimia,MIPA I
+8/29/2023 20:28,Perempuan,Desember,161,90,2,4,Dengan Orang Tua,Jakarta,Swasta,SMAS Budhi Warman II Jakarta,Membaca,Matematika,Matematika A
+8/29/2023 20:28,Perempuan,Februari,173,54,-,3,Dengan Orang Tua,Jakarta,Swasta,SMAK 4 Penabur ,menonton film,Statistika,Matematika A
+8/29/2023 20:28,Laki-laki,September,166,55,3,6,Dengan Orang Tua,Depok,Negeri,SMAN 2 Cibinong,Menonton Film,Geofisika,MIPA I
+8/29/2023 20:28,Perempuan,Juli,163,46,1,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 58 Jakarta,Menonton series,Aktuaria,Matematika A
+8/29/2023 20:28,Perempuan,April,168,45,3,2,Dengan Orang Tua,Bogor,Swasta,SMA Budi Mulia Bogor,Menggambar,Fisika,MIPA J
+8/29/2023 20:29,Laki-laki,Desember,175,60,0,4,Dengan Orang Tua,Jakarta,Negeri,sman 53 jakarta,basket,Geografi,MIPA J
+8/29/2023 20:29,Laki-laki,Juli,170,52,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 61 Jakarta,Membaca,Aktuaria,Matematika C
+8/29/2023 20:29,Laki-laki,Oktober,167,93,2,2,Kos,Luar Jabodetabek,Negeri,MAN 2 Mataram,Membaca,Fisika,MIPA J
+8/29/2023 20:29,Perempuan,Juni,155,50 kg,2,5,Dengan Orang Tua,Bogor,Swasta,SMAS Al - Bayan Putri,Membaca,Statistika,Matematika C
+8/29/2023 20:29,Perempuan,November,160,80,1,6,Kos,Tangerang,Negeri,SMAN 86 Jakarta,Membaca,Matematika,Matematika C
+8/29/2023 20:30,Perempuan,September,164,48,2,>5,Dengan Orang Tua,Jakarta,Swasta,Labschool,Main game,Fisika,MIPA J
+8/29/2023 20:30,Laki-laki,Oktober,170,55,1,2,Kos,Jakarta,Swasta,SMAK 3 PENABUR Jakarta,"Catur, Badminton",Statistika,Matematika C
+8/29/2023 20:30,Laki-laki,November,170 cm,54 kg,0,10 pasang,Dengan Orang Tua,Jakarta,Negeri,SMAN 77 JAKARTA ,Bersepeda ,Statistika,Matematika C
+8/29/2023 20:30,Perempuan,Februari,159,53,1,6,Dengan Orang Tua,Depok,Negeri,SMAN 6 Depok,"mendengarkan musik, olahraga",Matematika,Matematika A
+8/29/2023 20:30,Perempuan,Agustus,157,60,1,6,Kos,Tangerang,Negeri,MAN 12 Jakarta,Membaca,Matematika,Matematika C
+8/29/2023 20:30,Laki-laki,Oktober,174,75,1,2,Kos,Tangerang,Swasta,Saint John's Catholic School,Fotografi,Fisika,MIPA J
+8/29/2023 20:30,Perempuan,Agustus,154 cm,38 kg,0,3,Dengan Orang Tua,Bekasi,Negeri,SMAN 5 Bekasi,Membaca,Kimia,Matematika C
+8/29/2023 20:31,Perempuan,Desember,164,46,2,3,Dengan Orang Tua,Luar Jabodetabek,Swasta,SMAS Karuna Dipa,Menonton,Aktuaria,Matematika C
+8/29/2023 20:31,Laki-laki,Februari,174,74 kg,2,3,Dengan Orang Tua,Jakarta,Swasta,SMA muhammadiyah 3 Jakarta,bermain gitar,Aktuaria,Matematika A
+8/29/2023 20:31,Laki-laki,Oktober,173,95,2,1,Kos,Luar Jabodetabek,Swasta,SMA ABBS SURAKARTA,Olahraga,Aktuaria,Matematika A
+8/29/2023 20:31,Laki-laki,Februari,176,81,1,2,Dengan Orang Tua,Bogor,Swasta,SMA Taruna Terpadu,Membaca,Fisika,MIPA J
+8/29/2023 20:31,Perempuan,Februari,150,45,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 5 Kota Serang,Membaca,Geofisika,MIPA J
+8/29/2023 20:31,Laki-laki,November,168,56,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 88 Jakarta,Membaca,Fisika,MIPA J
+8/29/2023 20:31,Laki-laki,Juni,160,47,2,8,Kos,Luar Jabodetabek,Negeri,MAN IC Lombok Timur,Olahraga,Statistika,Matematika A
+8/29/2023 20:32,Perempuan,Juni,156,66,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,Membaca,Matematika,Matematika C
+8/29/2023 20:32,Perempuan,November,160 cm,47 kg,1,4,Dengan Orang Tua,Depok,Swasta,SMAS CITRA MADANI,"mendengar lagu, membaca postingan atau konten tentang astronomi",Fisika,MIPA J
+8/29/2023 20:32,Perempuan,Juli,150,50,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 54 Jakarta,Mendengar musik,Kimia,Matematika C
+8/29/2023 20:32,Laki-laki,Januari,173,70,3,3,Kos,Luar Jabodetabek,Negeri,SMAN 3 Batusangkar,Traveling,Statistika,Matematika A
+8/29/2023 20:32,Perempuan,Agustus,160,65,0,3,Kos,Luar Jabodetabek,Swasta,SMA ALBAYAN,masak,Statistika,Matematika C
+8/29/2023 20:33,Perempuan,November,150,50,2,4,Kos,Jakarta,Swasta,SMAK6 Penabur,Membaca,Aktuaria,Matematika C
+8/29/2023 20:33,Perempuan,Juni,160,66,2,3 pasang,Dengan Orang Tua,Luar Jabodetabek,Negeri,SMA Negeri 1 Kolaka,Membaca,Matematika,Matematika A
+8/29/2023 20:33,Perempuan,Februari,153,53,2,2,Kos,Bekasi,Negeri,SMAN 2 Cikarang Utara,Menari,Kimia,MIPA I
+8/29/2023 20:34,Perempuan,September,173,64,1,2,Kos,Luar Jabodetabek,Swasta,SMA Xaverius Bandar Lampung,Membaca,Fisika,MIPA J
+8/29/2023 20:34,Laki-laki,November,170,64,1,2,Kos,Bogor,Swasta,SMA Santo Yakobus,Membaca,Aktuaria,Matematika A
+8/29/2023 20:34,Perempuan,November,150,43,1,12,Dengan Orang Tua,Depok,Negeri,SMAN 1 DEPOK,Traveling,Statistika,Matematika C
+8/29/2023 20:35,Perempuan,Agustus,155,40,0,4 pasang,Dengan Orang Tua,Bogor,Negeri,SMAN 2 Cibinong,bermain musik,Fisika,MIPA J
+8/29/2023 20:36,Laki-laki,Desember,164cm,63kg,-,40,Kos,Luar Jabodetabek,Negeri,SMA Negeri 1 Subang,Olahraga,Fisika,MIPA J
+8/29/2023 20:37,Perempuan,Mei,150,35,5,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 CILEGON ,Menulis ,Fisika,MIPA J
+8/29/2023 20:37,Laki-laki,Mei,173,63,3,1,Kos,Luar Jabodetabek,Negeri,SMA N 1 Ngluwar,Membaca,Matematika,Matematika A
+8/29/2023 20:38,Laki-laki,Februari,162,70,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 5 Depok,maen game,Statistika,Matematika A
+8/29/2023 20:40,Perempuan,Mei,160,73 kg,3,2,Dengan Orang Tua,Depok,Swasta,SMA Sejahtera 1 Depok,Fotografi,Statistika,Matematika A
+8/29/2023 20:40,Laki-laki,Mei,170,65,2,2,Kos,Tangerang,Negeri,MAN 19 JAKARTA,Membaca,Kimia,MIPA I
+8/29/2023 20:41,Perempuan,Desember,160,70 kg,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 46 JAKARTA,Traveling,Fisika,MIPA J
+8/29/2023 20:41,Perempuan,Agustus,155,50,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 Pemalang,menyanyi,Statistika,Matematika C
+8/29/2023 20:42,Laki-laki,Agustus,178,73 kg,1,5,Dengan Orang Tua,Bogor,Negeri,SMA Negeri 2 Gunung Putri,Bermain Alat Musik,Fisika,MIPA J
+8/29/2023 20:42,Perempuan,Maret,154,50,1,2,Kos,Jakarta,Swasta,SMA Santa Ursula Jakarta,mendengarkan musik,Aktuaria,Matematika A
+8/29/2023 20:42,Laki-laki,November,168,56,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 88 Jakarta,Membaca,Fisika,MIPA J
+8/29/2023 20:43,Laki-laki,Desember,157,72,3,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 Lintau Buo,Traveling,Geofisika,MIPA I
+8/29/2023 20:43,Perempuan,Oktober,148,49,1,5,Dengan Orang Tua,Depok,Negeri,SMAN 1 Kota Depok,Masak,Kimia,MIPA C
+8/29/2023 20:44,Perempuan,April,166,58,1,4,Dengan Orang Tua,Bogor,Swasta,future gate,nonton,Fisika,MIPA J
+8/29/2023 20:44,Perempuan,September,155,55,2,1,Kos,Jakarta,Swasta,SMAS Kristen 3 BPK PENABUR Jakarta,Badminton,Aktuaria,Matematika A
+8/29/2023 20:45,Perempuan,Juli,155,40,2,4,Kos,Luar Jabodetabek,Negeri,SMA Negeri 2 Lintau Buo ,Membaca,Fisika,MIPA J
+8/29/2023 20:45,Perempuan,Desember,161,65,2,2,Kos,Luar Jabodetabek,Negeri,SMAN 4 MALANG,Membaca,Aktuaria,Matematika A
+8/29/2023 20:45,Perempuan,Desember,154,45,1,2,Dengan Orang Tua,Tangerang,Negeri,SMAN 34 Jakarta ,Olahraga ,Kimia,MIPA C
+8/29/2023 20:46,Perempuan,Mei,151,42,3,4,Kos,Luar Jabodetabek,Negeri,SMAN 1 TASIKMALAYA ,Membaca,Fisika,MIPA J
+8/29/2023 20:46,Perempuan,September,161,59,1,7,Kos,Bogor,Swasta,SMA Regina Pacis Bogor,memasak,Statistika,Matematika C
+8/29/2023 20:46,Perempuan,Oktober,161,66,2,3,Dengan Orang Tua,Depok,Negeri,MAN 2 JAKARTA,Mendengarkan musik,Aktuaria,Matematika C
+8/29/2023 20:47,Laki-laki,Oktober,168,70,1,2,Kos,Bekasi,Negeri,SMAN 1 Bekasi,Membaca,Matematika,Matematika A
+8/29/2023 20:48,Perempuan,Agustus,164,63,1,4,Dengan Orang Tua,Depok,Swasta,SMA PENABUR BOGOR ,menonton film,Kimia,MIPA C
+8/29/2023 20:49,Perempuan,Agustus,155,50,4,3,Kos,Luar Jabodetabek,Negeri,MAN IC SAMBAS,dengerin lagu,Statistika,Matematika A
+8/29/2023 20:49,Laki-laki,Maret,164 cm,59 kg,2,2,Kos,Luar Jabodetabek,Negeri,MAN 2 Pontianak,Dengerin Lagu,Matematika,Matematika A
+8/29/2023 20:50,Perempuan,Maret,157,68,2,4,Dengan Orang Tua,Depok,Negeri,SMA Negeri 2 Purwokerto,Traveling,Geologi,MIPA C
+8/29/2023 20:50,Laki-laki,Juni,160,62,2,3,Dengan Orang Tua,Jakarta,Swasta,SMA Sumbangsih,Bersepeda,Geografi,MIPA C
+8/29/2023 20:52,Laki-laki,Januari,176,56,3,2,Dengan Orang Tua,Tangerang,Negeri,SMAN 11 Tangerang Selatan,Musik dan catur,Fisika,MIPA J
+8/29/2023 20:53,Laki-laki,Desember,170,55,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 17 Jakarta,Bermain musik,Statistika,Matematika A
+8/29/2023 20:53,Perempuan,Agustus,154,58,2,2,Kos,Bekasi,Swasta,SMAI Al-Azhar 4 Kemang Pratama Bekasi,Memasak,Statistika,Matematika C
+8/29/2023 20:53,Perempuan,Februari,150,38,3,4,Dengan Orang Tua,Bogor,Negeri,SMAN 6 BOGOR,Membaca,Matematika,Matematika A
+8/29/2023 20:56,Perempuan,April,158,40,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 6 Jakarta Selatan,Yoga,Fisika,MIPA B
+8/29/2023 20:58,Laki-laki,Maret,170,80,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,Nonton bola,Geofisika,MIPA J
+8/29/2023 21:03,Perempuan,September,161,44,2,4,Kos,Tangerang,Swasta,Smait granada,Melukis,Kimia,MIPA C
+8/29/2023 21:04,Perempuan,November,162,55,1,5,Dengan Orang Tua,Depok,Negeri,SMAN 1 Depok,Membaca,Statistika,Matematika C
+8/29/2023 21:05,Perempuan,November,165,45,3,2,Dengan Saudara,Luar Jabodetabek,Negeri,MAN 1 Kota Kediri,Fotografi,Matematika,Matematika A
+8/29/2023 21:09,Laki-laki,November,173,53,2,1,Dengan Orang Tua,Depok,Negeri,Madrasah Aliyah Negeri 6 Jakarta,Membaca,Matematika,Matematika A
+8/29/2023 21:10,Perempuan,Januari,160 cm,47 kg,2,3,Kos,Bogor,Swasta,MA Al Hamid,Menggambar,Kimia,MIPA C
+8/29/2023 21:10,Perempuan,Desember,167,52,2,3,Kos,Bekasi,Negeri,SMAN 1 Tambun Selatan,Memasak,Kimia,MIPA I
+8/29/2023 21:10,Perempuan,Agustus,159,44,3,2,Kos,Luar Jabodetabek,Negeri,SMA N 1 GERUNG,Membaca,Fisika,MIPA J
+8/29/2023 21:13,Perempuan,Maret,160,70,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 105 Jakarta,mendengarkan musik,Geografi,MIPA C
+8/29/2023 21:14,Perempuan,April,164,67 kg,1,5,Dengan Orang Tua,Depok,Swasta,SMA ISLAM DIAN DIDAKTIKA,Membuat prakarya,Geofisika,MIPA J
+8/29/2023 21:14,Perempuan,Desember,159,59,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 10 Depok,bermain gitar,Matematika,Matematika A
+8/29/2023 21:15,Laki-laki,November,173,60,1,2,Dengan Orang Tua,Depok,Swasta,SMAS YASPEN  TUGU IBU 1 Depok,Traveling,Geofisika,MIPA I
+8/29/2023 21:17,Laki-laki,Agustus,172,58,2,7,Kos,Bogor,Swasta,SMA Regina Caeli,"Basket, Musik, Gaming",Fisika,MIPA I
+8/29/2023 21:17,Perempuan,Februari,163 cm,55 kg,2,7,Dengan Orang Tua,Jakarta,Negeri,SMAN 62 Jakarta,Membaca,Kimia,Matematika C
+8/29/2023 21:17,Perempuan,Juni,168,63,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 3 DEPOK ,Membaca,Kimia,MIPA I
+8/29/2023 21:19,Laki-laki,Juli,170,60,3,3,Kos,Luar Jabodetabek,Negeri,Sekolah Indonesia Makkah Tingkat SMA,Membaca,Aktuaria,Matematika A
+8/29/2023 21:19,Perempuan,September,165,68,-,2,Dengan Orang Tua,Depok,Negeri,SMAN 2 Cibinong ,Membaca,Kimia,MIPA I
+8/29/2023 21:21,Perempuan,November,153,50,0,3 pasang,Kos,Jakarta,Negeri,SMAN 33 Jakarta,Menari,Kimia,MIPA C
+8/29/2023 21:22,Laki-laki,Agustus,160,49,2,3,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 1 TUAL,Nonton Anime dan main game,Fisika,MIPA J
+8/29/2023 21:26,Perempuan,September,159,47,0,10,Dengan Orang Tua,Tangerang,Swasta,SMA Kharisma Bangsa,Membaca,Fisika,MIPA I
+8/29/2023 21:27,Laki-laki,Agustus,158,61,3,2,Dengan Orang Tua,Bekasi,Swasta,SMAIT YAPIDH,Membaca,Matematika,Matematika A
+8/29/2023 21:27,Perempuan,Mei,163,50,0,6,Kos,Jakarta,Swasta,sma labs jkt,Membaca,Aktuaria,Matematika A
+8/29/2023 21:33,Perempuan,September,156 cm,41 kg,2,5,Kos,Bekasi,Negeri,SMAN 68 Jakarta,Menonton Film,Kimia,MIPA I
+8/29/2023 21:34,Laki-laki,Maret,161,60,3,4,Kos,Luar Jabodetabek,Swasta,SMAS Mutiara Harapan ,Menonton,Geologi,MIPA I
+8/29/2023 21:35,Perempuan,Juli,155,53,2,3,Dengan Orang Tua,Depok,Swasta,SMAS President Boarding School,Membaca,Aktuaria,Matematika A
+8/29/2023 21:36,Laki-laki,September,163,49,3,3,Kos,Tangerang,Negeri,SMAN 11 KOTA TANGERANG SELATAN,Gambar,Kimia,MIPA C
+8/29/2023 21:37,Laki-laki,Februari,185,120,3,3,Dengan Orang Tua,Jakarta,Swasta,SUMBANGSIH JAKARTA,Bernyanyi,Geografi,MIPA E
+8/29/2023 21:38,Perempuan,November,161,41,0,2,Kos,Tangerang,Negeri,SMAN 11 TANGERANG,Traveling,Kimia,MIPA E
+8/29/2023 21:39,Perempuan,Januari,156,53,3,4,Kos,Luar Jabodetabek,Swasta,SMA Alexandria Islamic School,Membaca,Geofisika,MIPA I
+8/29/2023 21:39,Perempuan,Maret,155,65,1,5,Kos,Tangerang,Swasta,SMA Al Azhar 1 Jakarta,nonton film/series,Statistika,Matematika C
+8/29/2023 21:40,Perempuan,Agustus,162,44,1,3,Kos,Tangerang,Swasta,SMA IT Tunas Harapan Ilahi,Membaca,Geofisika,MIPA I
+8/29/2023 21:40,Perempuan,Mei,153,55,2,5,Kos,Luar Jabodetabek,Negeri,SMAN 1 Pangkalpinang,mendengarkan musik,Geofisika,MIPA I
+8/29/2023 21:42,Perempuan,Maret,160,53,2,3,Dengan Orang Tua,Depok,Negeri,SMAN 4 Depok,bermain gitar,Geofisika,MIPA E
+8/29/2023 21:44,Perempuan,April,145,48,1,2,Kos,Luar Jabodetabek,Swasta,SMA Quran Darul Fattah,Jalan kaki sambil denger musik,Matematika,Matematika A
+8/29/2023 21:45,Perempuan,November,157,47,0,4,Dengan Orang Tua,Depok,Swasta,SMA Putra Bangsa,Membaca,Geofisika,MIPA E
+8/29/2023 21:47,Laki-laki,Juli,159,42,2,2,Dengan Orang Tua,Depok,Negeri,SMAN 70 JAKARTA ,Futsal dan Bermain Game,Geologi,MIPA I
+8/29/2023 21:47,Perempuan,November,156,42,2,2,Kos,Bogor,Negeri,SMAN 5 Depok,Menonton film,Geografi,MIPA I
+8/29/2023 21:48,Perempuan,Maret,161,58,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 58 Jakarta,Membaca,Statistika,Matematika C
+8/29/2023 21:55,Perempuan,Mei,160 cm,43,1,3,Kos,Tangerang,Negeri,SMAN 2 Tangerang Selatan,nonton film,Matematika,Matematika C
+8/29/2023 21:56,Perempuan,Mei,167cm,49kg,1,3,Kos,Luar Jabodetabek,Swasta,SMA Laboratorium Percontohan UPI,menonton film,Kimia,MIPA I
+8/29/2023 21:58,Laki-laki,Juni,176,85,2,8,Dengan Orang Tua,Bekasi,Negeri,SMA NEGERI 7 DEIK,design,Matematika,Matematika C
+8/29/2023 22:11,Laki-laki,September,165,46,1,3,Kos,Luar Jabodetabek,Swasta,SMAS SUTOMO 1,Membaca,Aktuaria,Matematika A
+8/29/2023 22:13,Perempuan,Agustus,165,57,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 34 Jakarta,mendengarkan musik,Geofisika,MIPA J
+8/29/2023 22:22,Perempuan,Agustus,167,54,2,3,Dengan Orang Tua,Jakarta,Negeri,Sman 49 Jakarta,Membaca,Geofisika,MIPA J
+8/29/2023 22:24,Perempuan,Februari,160,50,2,5,Dengan Orang Tua,Depok,Negeri,SMAN 3 Depok,Traveling,Statistika,Matematika C
+8/29/2023 22:29,Perempuan,Februari,161,50,2,2,Dengan Orang Tua,Depok,Negeri,SMA Negeri 2 Cibinong,Membaca,Aktuaria,Matematika C
+8/29/2023 22:31,Perempuan,Maret,155,40,-,4,Dengan Orang Tua,Depok,Negeri,SMAN 46 Jakarta,menonton film,Kimia,MIPA I
+8/29/2023 22:32,Perempuan,September,155,90,-,15,Dengan Orang Tua,Jakarta,Negeri,SMAN 46,Scroll sosmed,Matematika,Matematika C
+8/29/2023 22:34,Perempuan,April,165 cm,58 kg,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 98 Jakarta,"mendengarkan musik, menonton film",Geofisika,MIPA E
+8/29/2023 22:37,Perempuan,September,165,49,1,4,Dengan Orang Tua,Depok,Negeri,SMAN 8 Depok,Membaca,Kimia,MIPA E
+8/29/2023 22:40,Perempuan,Oktober,158,52,1,3,Dengan Orang Tua,Depok,Negeri,SMAN NEGERI 3 DEPOK ,Membaca,Matematika,Matematika C
+8/29/2023 22:45,Laki-laki,Desember,161 cm,56 kg ,1,3,Kos,Luar Jabodetabek,Swasta,SMAS Kristen Barana',"Menulis, Bermusik ",Geografi,MIPA C
+8/29/2023 22:45,Perempuan,September,167,64,2,7,Dengan Orang Tua,Jakarta,Negeri,SMAN 7 Jakarta,Membaca,Matematika,Matematika A
+8/29/2023 22:52,Perempuan,Desember,156,50,2,3,Dengan Orang Tua,Depok,Negeri,SMAN 97 Jakarta,Menulis karya sastra,Geografi,MIPA E
+8/29/2023 22:53,Perempuan,Agustus,158,57,3,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 68 JAKARTA ,Menggambar ,Kimia,MIPA C
+8/29/2023 23:13,Laki-laki,Desember,159,45,3,Lima,Dengan Saudara,Bogor,Swasta,SMA Budi Utomo Perak Jombang Jawa Timur ,Fotografi,Geografi,MIPA C
+8/29/2023 23:13,Perempuan,Mei,155,45,1,10,Kos,Bogor,Negeri,SMAN 2 BOGOR,"Menari, menyanyi",Matematika,Matematika A
+8/29/2023 23:35,Perempuan,September,156,51,0,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 68 Jakarta,Membaca,Aktuaria,Matematika A
+8/29/2023 23:39,Perempuan,November,154,39,3,4,Dengan Orang Tua,Bogor,Negeri,SMAN 1 Cibinong,Membaca,Matematika,Matematika A
+8/29/2023 23:54,Laki-laki,Oktober,166 cm,53 kg,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 55 Jakarta ,Membaca,Fisika,MIPA J
+8/30/2023 0:24,Laki-laki,Juni,176,44,2,4,Dengan Orang Tua,Bogor,Negeri,SMAN 1 Bojonggede ,Membaca,Matematika,Matematika A
+8/30/2023 0:41,Perempuan,Maret,156,45,1,5,Dengan Orang Tua,Depok,Negeri,MAN 7 Jakarta,Membaca,Geografi,MIPA I
+8/30/2023 0:49,Laki-laki,Juni,182,90,2,2,Dengan Orang Tua,Jakarta,Negeri,Sman negeri 39 Jakarta,Traveling,Geografi,MIPA J
+8/30/2023 2:48,Laki-laki,Juni,180,88,2,8,Dengan Orang Tua,Bogor,Swasta,SMAK PENABUR Kota Wisata,"Basket, Badminton, dan Gitar",Fisika,MIPA J
+8/30/2023 4:31,Laki-laki,Agustus,182,58,5,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta ,Menggambar ,Fisika,MIPA J
+8/30/2023 4:31,Laki-laki,November,167 cm,44 kg,3,4,Kos,Luar Jabodetabek,Negeri,SMAN 4 Karawang,Mendengarkan musik,Kimia,MIPA C
+8/30/2023 5:12,Perempuan,November,155,50,1,1,Dengan Orang Tua,Bogor,Negeri,SMAN 02 Cibinong,Mendengarkan musik,Kimia,MIPA E
+8/30/2023 5:20,Perempuan,Juli,166,65,1,3,Kos,Bekasi,Negeri,SMAN 3 Bekasi,Membaca,Kimia,MIPA I
+8/30/2023 5:22,Perempuan,Mei,165,52,3,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 109 Jakarta,Menonton film dan series,Kimia,MIPA E
+8/30/2023 5:44,Laki-laki,Juli,160,51,1,2,Dengan Saudara,Luar Jabodetabek,Negeri,SMAN 3 Blitar,Membaca,Kimia,MIPA I
+8/30/2023 5:45,Perempuan,November,156,55,1,3,Dengan Orang Tua,Depok,Swasta,SMAIT ASSYIFA BS WANAREJA,Membaca,Aktuaria,Matematika C
+8/30/2023 5:45,Perempuan,Desember,150,49,1,4,Dengan Orang Tua,Bogor,Swasta,SMA Marsudirini Bogor,menyanyi,Geofisika,MIPA E
+8/30/2023 6:10,Perempuan,Juni,160 cm,50 kg,0,5,Dengan Orang Tua,Jakarta,Swasta,SMAS Muhammadiyah 4 Jakarta,"Mendengarkan lagu, bermain gitar",Matematika,Matematika A
+8/30/2023 6:11,Perempuan,Februari,162,65,1,8,Dengan Orang Tua,Jakarta,Negeri,SMAN 14 Jakarta,Membaca,Statistika,Matematika A
+8/30/2023 6:58,Perempuan,Maret,166,52,5,2,Dengan Orang Tua,Bogor,Negeri,SMAN 5 BOGOR,Membaca,Statistika,Matematika C
+8/30/2023 7:19,Perempuan,September,162,51,1,5,Dengan Orang Tua,Tangerang,Negeri,SMAN 3 Kota Tangerang,Menari,Fisika,MIPA E
+8/30/2023 7:19,Laki-laki,Agustus,175,75,1,8,Kos,Tangerang,Swasta,SMA Santa Ursula BSD,"Main game, olahraga",Matematika,Matematika C
+8/30/2023 7:20,Laki-laki,Desember,167,70,-,3,Dengan Orang Tua,Bekasi,Negeri,SMA Negeri 30 Jakarta,Membaca,Fisika,MIPA J
+8/30/2023 7:25,Perempuan,Agustus,168 cm,57 kg,2,8,Dengan Orang Tua,Jakarta,Negeri,SMAN 3 Jakarta,Nonton film,Kimia,MIPA C
+8/30/2023 7:33,Laki-laki,Maret,180,69,1,9,Dengan Orang Tua,Tangerang,Negeri,Sma Negeri 6 jakarta ,bermain atau bersosialisasi,Matematika,Matematika C
+8/30/2023 7:33,Laki-laki,April,164,55,3,1,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 2 BALIGE,Membaca,Matematika,Matematika A
+8/30/2023 7:34,Perempuan,Juli,157,43,3,3,Dengan Orang Tua,Tangerang,Negeri,SMA Negeri 47 Jakarta,Menggambar,Statistika,Matematika A
+8/30/2023 7:38,Perempuan,Januari,163,49,3,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 55 Jakarta,Membaca,Kimia,MIPA E
+8/30/2023 7:44,Laki-laki,Maret,175,77,1,4,Kos,Jakarta,Swasta,SMAK 1 PENABUR Jakarta,Memasak,Aktuaria,Matematika C
+8/30/2023 8:00,Perempuan,Januari,164,72,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 62 Jakarta,Membaca,Matematika,Matematika A
+8/30/2023 8:06,Laki-laki,Januari,165,70,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 62 JAKARTA,Bela Diri,Geofisika,MIPA I
+8/30/2023 8:14,Laki-laki,Mei,170,65,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 8 Jakarta,Traveling,Fisika,MIPA I
+8/30/2023 8:15,Perempuan,November,158,46,1,3,Dengan Orang Tua,Jakarta,Swasta,SMAI Diandidaktika,Membaca,Statistika,Matematika A
+8/30/2023 8:17,Laki-laki,April,171,60,3,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 65 Jakarta,Membaca,Statistika,Matematika A
+8/30/2023 8:41,Perempuan,Juni,162,53,2,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,Membaca,Matematika,Matematika C
+8/30/2023 8:41,Perempuan,Februari,147,37,7,1,Kos,Luar Jabodetabek,Negeri,Man 1 Polewali Mandar ,Membaca,Matematika,Matematika A
+8/30/2023 8:44,Perempuan,Januari,147,46,2,3,Kos,Bekasi,Swasta,SMA Al-Wildan Islamic School,nonton film,Kimia,MIPA I
+8/30/2023 8:45,Laki-laki,Juli,167,60,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 Mataram,Bermain game,Statistika,Matematika C
+8/30/2023 8:47,Perempuan,Agustus,165,87,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 1 DEPOK,Traveling,Statistika,Matematika C
+8/30/2023 8:47,Perempuan,Maret,165,42,2,2,Kos,Luar Jabodetabek,Negeri,MAN 2 Pekanbaru,berenang,Statistika,Matematika C
+8/30/2023 8:48,Perempuan,Oktober,153,65,0,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 48 Jakarta,Menggambar,Kimia,MIPA A
+8/30/2023 8:48,Perempuan,Mei,156,70,1,3,Kos,Bekasi,Negeri,SMA 3 CIKARANG UTARA,Mendengarkan musik,Fisika,MIPA F
+8/30/2023 8:48,Laki-laki,Januari,175,57,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 104 Jakarta ,Membaca komik ,Kimia,MIPA F
+8/30/2023 8:49,Laki-laki,Juni,167-168,62,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 82,Olahraga,Fisika,MIPA A
+8/30/2023 8:50,Laki-laki,Maret,175,83,1,2,Kos,Luar Jabodetabek,Swasta,Sma Sunodia,Nonton,Kimia,MIPA F
+8/30/2023 8:51,Perempuan,April,161,55,3,5,Dengan Orang Tua,Depok,Negeri,sman 45 jkt,nyanyi,Geografi,MIPA A
+8/30/2023 8:51,Perempuan,Mei,160,53,2,4,Kos,Bekasi,Negeri,SMAN 2 Kota Bekasi,Menari,Matematika,Matematika C
+8/30/2023 8:52,Perempuan,September,160,88,2,2,Kos,Luar Jabodetabek,Negeri,SMAN 2 KS CILEGON,Memasak,Geologi,MIPA K
+8/30/2023 8:52,Perempuan,Maret,153,44,3,2,Kos,Bekasi,Swasta,SMAK Penabur Summarecon,"Mendengarkan musik, menggambar",Kimia,MIPA C
+8/30/2023 8:52,Perempuan,Agustus,168,45,1,3,Dengan Orang Tua,Jakarta,Swasta,SMA 17 Agustus 45,Traveling,Kimia,MIPA C
+8/30/2023 8:52,Perempuan,April,150,64,2,2,Kos,Bekasi,Negeri,SMK SMAK Bogor,Mendengarkan lagu,Kimia,MIPA F
+8/30/2023 8:52,Perempuan,Februari,155,35,2,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 14 Jakarta,Membaca,Geologi,MIPA C
+8/30/2023 8:53,Laki-laki,Mei,182cm,69kg,1,44,Dengan Orang Tua,Tangerang,Negeri,SMAN 28 JAKARTA ,Fotografi,Geografi,MIPA C
+8/30/2023 8:54,Laki-laki,Desember,178,90,0,3,Kos,Bogor,Swasta,SMA Taruna Bangsa,Main musik,Fisika,MIPA K
+8/30/2023 8:54,Perempuan,Desember,155,52,0,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 Ciamis,"berenang, bermain gitar",Kimia,MIPA F
+8/30/2023 8:54,Laki-laki,Desember,177,65,2,4,Kos,Tangerang,Swasta,SMA Pradita Dirgantara,main dan mendengarkan musik,Aktuaria,Matematika C
+8/30/2023 8:55,Perempuan,Februari,163,50,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 70,Fotografi,Aktuaria,Matematika C
+8/30/2023 8:55,Perempuan,Desember,160,50,3,2,Dengan Orang Tua,Jakarta,Swasta,SMAS YPHB,menulis,Kimia,MIPA F
+8/30/2023 8:56,Perempuan,Oktober,157,49,3,5,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 38 Jakarta,Traveling,Kimia,MIPA C
+8/30/2023 8:56,Laki-laki,Agustus,173 cm,80 kg,0,2 pasang,Kos,Bekasi,Negeri,SMAN 1 TAMBUN SELATAN,Menonton film dan membuat cerita,Kimia,MIPA A
+8/30/2023 8:57,Perempuan,Januari,163,68,2,3,Dengan Orang Tua,Depok,Swasta,SMA PGRI Depok,Membaca,Kimia,MIPA I
+8/30/2023 9:00,Laki-laki,Januari,168,55,2,5,Kos,Jakarta,Negeri,SMAN 5 Jakarta,Traveling,Geofisika,MIPA C
+8/30/2023 9:00,Perempuan,Oktober,148,48,2,6,Dengan Orang Tua,Jakarta,Negeri,SMAN 14 Jakarta ,Membaca,Kimia,MIPA C
+8/30/2023 9:00,Laki-laki,Maret,175,60,2,3,Dengan Orang Tua,Depok,Negeri,SMA NEGERI 5 DEPOK ,olahraga,Kimia,MIPA A
+8/30/2023 9:00,Laki-laki,Juli,168,63,1,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 Sumatra Barat ,"Olahraga, musik, Menonton, Game, dll",Kimia,MIPA F
+8/30/2023 9:00,Laki-laki,Desember,175,75,2,1,Kos,Bekasi,Negeri,MAN 8 JAKARTA,Berkelana,Fisika,MIPA G
+8/30/2023 9:01,Perempuan,Maret,170 cm,59 kg,1,3,Kos,Tangerang,Swasta,SMA Dian Bangsa,Olahraga dan Musik,Fisika,MIPA A
+8/30/2023 9:01,Laki-laki,Juni,168,62,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 82,Olahraga,Fisika,MIPA A
+8/30/2023 9:01,Perempuan,Desember,162,45,0,6,Dengan Orang Tua,Depok,Negeri,SMAN 6 Depok,Bermain musik,Geografi,MIPA C
+8/30/2023 9:02,Perempuan,April,155 cm,46 kg,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 1 JAKARTA,Membaca dan memasak,Fisika,MIPA G
+8/30/2023 9:02,Perempuan,Februari,156,50,2,3,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 12 Jakarta,Membaca,Kimia,MIPA G
+8/30/2023 9:02,Perempuan,Februari,155,90,1,5,Dengan Orang Tua,Jakarta,Negeri,MAN 4,Membaca,Kimia,MIPA K
+8/30/2023 9:02,Laki-laki,Februari,164,40,2,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 BELINYU ,Membaca,Kimia,MIPA G
+8/30/2023 9:03,Perempuan,Juni,167,56,1,8,Dengan Orang Tua,Depok,Negeri,SMA NEGERI 2 DEPOK,Menonton konser,Geografi,MIPA A
+8/30/2023 9:03,Perempuan,Oktober,150,38,4,2,Kos,Jakarta,Negeri,SMAN 70 Jakarta,Mendengarkan musik,Fisika,MIPA G
+8/30/2023 9:03,Perempuan,September,156,39,2,3,Kos,Jakarta,Negeri,SMAN 39 Jakarta,Membaca,Kimia,MIPA C
+8/30/2023 9:03,Perempuan,Juni,169,64,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 2 Depok ,Menyanyi,Geologi,MIPA A
+8/30/2023 9:04,Perempuan,Agustus,152,40,0,5,Dengan Orang Tua,Depok,Swasta,SMA Budi Cendekia Islamic School,Traveling,Kimia,MIPA C
+8/30/2023 9:04,Perempuan,Desember,161,48,3,3,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 62 Jakarta,Traveling,Fisika,MIPA G
+8/30/2023 9:04,Laki-laki,Desember,181,94,1,6,Dengan Orang Tua,Tangerang,Negeri,SMAN 70 Jakarta,Bermain bulutangkis,Fisika,MIPA G
+8/30/2023 9:04,Laki-laki,Juli,163,48,2,2,Dengan Saudara,Jakarta,Negeri,MAN Insan Cendekia Serpong,Membaca,Fisika,MIPA G
+8/30/2023 9:05,Perempuan,Juni,160,64,1,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 Purwakarta,Membaca,Fisika,MIPA G
+8/30/2023 9:06,Perempuan,April,154,40,1,2,Kos,Tangerang,Swasta,SMA An-Nurmaniyah,Fotografi,Fisika,MIPA G
+8/30/2023 9:06,Laki-laki,Juni,165,95,1,4,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 20 SURABAYA,Membaca,Fisika,MIPA G
+8/30/2023 9:07,Perempuan,Oktober,151,40,3,3,Kos,Bogor,Negeri,SMAN 4 Bogor,Menari,Kimia,MIPA G
+8/30/2023 9:10,Laki-laki,Januari,172,68,2,4,Dengan Orang Tua,Jakarta,Swasta,SMA SULUH,main musik,Kimia,MIPA A
+8/30/2023 9:10,Perempuan,Februari,161,65,1,2,Kos,Bekasi,Negeri,SMAN 1 Cikarang Selatan,Bercocok Tanam,Kimia,MIPA K
+8/30/2023 9:11,Perempuan,Mei,163,55,2,2,Dengan Orang Tua,Bogor,Negeri,Sman 1 cibinong ,Makeup ,Fisika,MIPA I
+8/30/2023 9:13,Laki-laki,September,174,69,1,4,Dengan Orang Tua,Depok,Negeri,SMAN 3 DEPOK,Olahraga,Geofisika,MIPA G
+8/30/2023 9:13,Perempuan,Oktober,160,50,3,5,Dengan Orang Tua,Jakarta,Negeri,SMK - SMAK Bogor,Membaca,Kimia,MIPA A
+8/30/2023 9:14,Laki-laki,Oktober,170,49,1,3,Kos,Jakarta,Negeri,SMAN 30 Jakarta,Mendengarkan lagu,Fisika,MIPA A
+8/30/2023 9:14,Perempuan,November,158,45,3,4,Dengan Orang Tua,Depok,Negeri,SMA Negeri 2 Depok,Traveling,Geofisika,MIPA C
+8/30/2023 9:14,Perempuan,Juni,154,79,1,3,Dengan Orang Tua,Bekasi,Swasta,SMA Labschool Cibubur,Membaca,Kimia,MIPA A
+8/30/2023 9:14,Perempuan,Juni,156,50,4,2,Kos,Luar Jabodetabek,Negeri,MAN INSAN CENDEKIA PADANG PARIAMAN,Menyanyi,Fisika,MIPA A
+8/30/2023 9:15,Perempuan,Januari,153,37,1,1,Kos,Luar Jabodetabek,Negeri,man 2 kota serang,Membaca,Geologi,MIPA F
+8/30/2023 9:16,Perempuan,Maret,159,40,5,6,Dengan Orang Tua,Bogor,Negeri,SMAN 4 Bogor,Membaca,Geografi,MIPA G
+8/30/2023 9:17,Perempuan,Juni,173,73,1,4,Dengan Orang Tua,Luar Jabodetabek,Negeri,MAN 1 BUKITTINGGI,gambar,Fisika,MIPA G
+8/30/2023 9:19,Laki-laki,Februari,163,49,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 49 Jakarta,Membaca,Geografi,MIPA G
+8/30/2023 9:23,Perempuan,September,153,44,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 64 JAKARTA,mendengar lagu,Geografi,MIPA A
+8/30/2023 9:28,Perempuan,Februari,161,52,2,4,Dengan Orang Tua,Bogor,Negeri,SMAN 6 Bogor,Mendengarkan Musik,Geofisika,MIPA K
+8/30/2023 9:28,Perempuan,Desember,160,66,2,3,Dengan Orang Tua,Depok,Negeri,SMAN 46 Jakarta ,Membaca,Kimia,MIPA G
+8/30/2023 9:28,Perempuan,September,156,40,1,2,Dengan Orang Tua,Bekasi,Negeri,SMAN 1 Tambun Utara,Membaca,Kimia,MIPA E
+8/30/2023 9:29,Perempuan,Februari,158,57,3,5,Dengan Orang Tua,Depok,Negeri,SMAN 106 Jakarta,Memasak,Geografi,MIPA A
+8/30/2023 9:33,Perempuan,April,157,45,1,7,Dengan Orang Tua,Jakarta,Negeri,SMAN 98 Jakarta,Membaca,Geografi,MIPA A
+8/30/2023 9:34,Perempuan,Agustus,152,50,3,3,Kos,Luar Jabodetabek,Negeri,MAN Insan Cendekia Jambi ,Membaca,Fisika,MIPA G
+8/30/2023 9:34,Perempuan,Desember,150,43,2,4,Kos,Bogor,Negeri,SMAN 11 Bekasi,Membaca,Fisika,MIPA F
+8/30/2023 9:35,Perempuan,Januari,150,43,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 109 Jakarta,"membaca, berenang, menonton film, dan traveling ",Geografi,MIPA A
+8/30/2023 9:35,Perempuan,September,149,47,3,2,Dengan Orang Tua,Bogor,Swasta,PKBM Ristek Nusantara Jaya,Nonton,Fisika,MIPA G
+8/30/2023 9:38,Perempuan,Juli,160,45,2,2,Kos,Luar Jabodetabek,Negeri,SMAN 2 Surabaya,Traveling,Geofisika,MIPA A
+8/30/2023 9:39,Laki-laki,Oktober,165,56,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 82 Jakarta ,Bermain musik,Kimia,MIPA G
+8/30/2023 9:40,Perempuan,Februari,165,50,2,8,Dengan Orang Tua,Depok,Negeri,SMAN 1 Depok,menari,Geografi,MIPA A
+8/30/2023 9:40,Perempuan,Mei,156,45,1,4,Kos,Tangerang,Negeri,SMA Negeri 4 Kota Tangerang Selatan ,Membaca,Kimia,MIPA C
+8/30/2023 9:42,Laki-laki,Januari,178,72,2,5,Dengan Orang Tua,Jakarta,Swasta,SMAS Global Islamic School Condet,Olahraga,Geografi,MIPA A
+8/30/2023 9:43,Perempuan,Februari,156,45,1,7,Dengan Saudara,Jakarta,Negeri,SMAN 22 Bandung,Membaca,Geografi,MIPA F
+8/30/2023 9:44,Laki-laki,Agustus,178,70,1,2,Dengan Orang Tua,Tangerang,Negeri,SMAN 3 TANGSEL,Olahraga,Geografi,MIPA A
+8/30/2023 9:46,Laki-laki,Juli,165,60,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 39 Jakarta,Bulu Tangkis,Geofisika,MIPA K
+8/30/2023 9:47,Perempuan,Maret,160,60,3,5,Dengan Saudara,Tangerang,Negeri,SMAN 8 Tangerang Selatan,Menderang musik,Kimia,MIPA A
+8/30/2023 9:48,Perempuan,Desember,160,46,3,2,Kos,Bekasi,Swasta,SMA labschool jakarta,dengerin musik,Statistika,Matematika C
+8/30/2023 9:49,Laki-laki,Maret,166,47,1,3,Kos,Bekasi,Negeri,SMAN 9 Bekasi ,Bermain game,Fisika,MIPA A
+8/30/2023 9:50,Laki-laki,Desember,173,75,2,4,Dengan Orang Tua,Bogor,Negeri,MAN 2 KOTA BOGOR,Sepakbola,Kimia,MIPA G
+8/30/2023 9:50,Laki-laki,Januari,167,95,1,9,Kos,Luar Jabodetabek,Negeri,SMA Negeri 9 Manado,Membaca,Geologi,MIPA A
+8/30/2023 9:51,Laki-laki,Juli,171,43,2,2,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 95 Jakarta,Membaca,Fisika,MIPA G
+8/30/2023 9:51,Laki-laki,Desember,181,181,1,6,Dengan Orang Tua,Tangerang,Negeri,SMAN 70 Jakarta,Bermain bulutangkis,Fisika,MIPA G
+8/30/2023 9:51,Perempuan,Januari,150,40,3,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 61 Jakarta,Membaca,Statistika,Matematika C
+8/30/2023 9:52,Laki-laki,Oktober,165,56,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 82 JAKARTA,Bermain musik,Kimia,MIPA G
+8/30/2023 9:52,Laki-laki,Maret,166,75,2,2,Dengan Orang Tua,Bogor,Swasta,sma global mandiri cibubur,bermain game,Geologi,MIPA C
+8/30/2023 9:52,Laki-laki,Juni,170,45,4,2,Kos,Jakarta,Negeri,SMAN 78,Membaca,Fisika,MIPA A
+8/30/2023 9:52,Laki-laki,Desember,170,65,2,3,Kos,Jakarta,Negeri,SMAN 33 Jakarta,Nonton film,Geografi,MIPA A
+8/30/2023 9:52,Laki-laki,April,167,80,1,2,Dengan Orang Tua,Bogor,Negeri,SMAN 2 CIBINONG,Menonton film/video youtube,Kimia,MIPA K
+8/30/2023 9:53,Laki-laki,Februari,168,80,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 22 Jakarta ,Main Basket ,Geologi,MIPA A
+8/30/2023 9:55,Laki-laki,Juli,163,48,2,2,Dengan Saudara,Jakarta,Negeri,MAN Insan Cendekia Serpong,Membaca,Fisika,MIPA G
+8/30/2023 10:00,Laki-laki,November,175,62,2,1,Dengan Orang Tua,Jakarta,Swasta,AL IZHAR PONDOK LABU,berenang,Geologi,MIPA K
+8/30/2023 10:00,Laki-laki,Maret,166,55,5,3,Kos,Luar Jabodetabek,Negeri,SMA NEGERI PLUS PROVINSI RIAU,Membaca,Geologi,MIPA F
+8/30/2023 10:03,Perempuan,Oktober,158,71,2,2,Kos,Jakarta,Negeri,SMAN 71 JAKARTA,nonton,Statistika,Matematika C
+8/30/2023 10:09,Perempuan,Agustus,162,60,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 98 Jakarta,Masak,Kimia,MIPA G
+8/30/2023 10:19,Laki-laki,Maret,162,55,1,4,Kos,Bekasi,Swasta,SMAIT THARIQ BIN ZIYAD,Olahraga,Fisika,MIPA A
+8/30/2023 10:20,Perempuan,September,153,46,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 62 Jakarta,Menggambar,Geologi,MIPA F
+8/30/2023 10:32,Perempuan,Agustus,162,55,2,4,Kos,Bekasi,Swasta,SMK Caraka Nusantara,Menonton Film,Kimia,MIPA A
+8/30/2023 10:58,Laki-laki,Mei,173 cm,57 kg,2,7,Dengan Orang Tua,Jakarta,Negeri,SMAN 48 JAKARTA,Traveling,Geologi,MIPA K
+8/30/2023 10:59,Perempuan,September,155 cm,52 kg,2 orang,Dua pasang sepatu,Kos,Luar Jabodetabek,Negeri,SMAN 1 SOLOK SELATAN,Dengerin musik,Geografi,MIPA K
+8/30/2023 11:22,Laki-laki,Mei,176,72,3,5,Kos,Depok,Swasta,SMA IT Izzuddin Palembang,Olahraga,Fisika,MIPA C
+8/30/2023 11:22,Perempuan,September,160,53,3,4,Kos,Tangerang,Negeri,SMAN 101 Jakarta ,Traveling,Fisika,MIPA E
+8/30/2023 11:23,Perempuan,Mei,150,35,5,2,Kos,Luar Jabodetabek,Negeri,SMAN 1 CILEGON ,Menulis ,Fisika,MIPA J
+8/30/2023 11:24,Perempuan,Juli,158,36,2,2,Dengan Orang Tua,Bekasi,Negeri,SMAN 11 KOTA BEKASI,Membaca,Fisika,MIPA E
+8/30/2023 12:02,Perempuan,Juni,158 cm,57 kg,3,3,Dengan Orang Tua,Depok,Swasta,MAS Wali Songo Ponorogo,Membaca,Geofisika,MIPA K
+8/30/2023 12:11,Perempuan,Juni,155,55,1,8,Dengan Orang Tua,Bogor,Negeri,SMAN 3 Bogor,Mendengarkan musik,Geofisika,MIPA F
+8/30/2023 12:19,Perempuan,November,155,48,2,2,Kos,Luar Jabodetabek,Negeri,MAN 1 TASIKMALAYA,olahraga,Geofisika,MIPA F
+8/30/2023 12:20,Perempuan,Mei,158,56,1,6,Kos,Tangerang,Negeri,SMAN 47 Jakarta,Mendengarkan Lagu,Aktuaria,Matematika C
+8/30/2023 12:21,Perempuan,Mei,166,68,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 34 Jakarta,mendengar musik dan bernyanyi,Geofisika,MIPA F
+8/30/2023 12:21,Perempuan,September,155,55,1,4,Dengan Orang Tua,Depok,Negeri,SMA Negeri 66 Jakarta,Menonton,Aktuaria,Matematika C
+8/30/2023 12:22,Perempuan,Maret,157,40,1,4,Dengan Orang Tua,Bekasi,Negeri,SMAN 93 Jakarta,Membaca,Geofisika,MIPA F
+8/30/2023 12:44,Perempuan,Oktober,161,64,2,8,Dengan Orang Tua,Bekasi,Negeri,SMAN 4 Bekasi,Nonton,Geografi,MIPA G
+8/30/2023 12:48,Laki-laki,Mei,168,63,3,8,Kos,Luar Jabodetabek,Negeri,SMAN 2 BALIGE,Bercocok Tanam,Fisika,MIPA G
+8/30/2023 13:10,Perempuan,Oktober,155,53,2,2,Kos,Luar Jabodetabek,Swasta,SMA Pusri Palembang,Traveling,Kimia,MIPA A
+8/30/2023 13:14,Perempuan,November,161,44,8,2,Dengan Orang Tua,Tangerang,Swasta,SMA Nuraida Islamic Boarding School ,Membaca,Kimia,MIPA E
+8/30/2023 13:25,Perempuan,September,150,60,4,4,Dengan Orang Tua,Depok,Swasta,SMA Budhi Warman 2 Jakarta ,Dengerin Musik,Fisika,MIPA F
+8/30/2023 13:36,Perempuan,Agustus,155,57,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 47 Jakarta,Mendengarkan Musik,Matematika,Matematika A
+8/30/2023 15:08,Laki-laki,Februari,171,53,2,5,Dengan Saudara,Luar Jabodetabek,Negeri,SMAN 1 Ambon,Futsal,Geofisika,MIPA G
+8/30/2023 15:14,Perempuan,Januari,158,46,3,3,Dengan Orang Tua,Bogor,Negeri,SMAN 1 SUKARAJA,Membaca,Kimia,MIPA E
+8/30/2023 15:35,Laki-laki,Oktober,178,74,1,6,Dengan Orang Tua,Tangerang,Negeri,SMA Negeri 5 Tangerang,Mendengar musik,Kimia,MIPA A
+8/30/2023 16:56,Perempuan,Agustus,154cm,45,2,2pasang,Kos,Luar Jabodetabek,Negeri,SMAN 1 TANA TORAJA,Nonton,Geologi,MIPA K
+8/30/2023 16:58,Perempuan,Agustus,155,51.8,1,4,Dengan Orang Tua,Jakarta,Swasta,SMA Budi Mulia Utama Jakarta,Traveling,Geografi,MIPA K
+8/30/2023 17:37,Laki-laki,November,179,79,3,2,Kos,Bogor,Negeri,Sman 2 Tangerang Selatan,Traveling,Geofisika,MIPA K
+8/30/2023 17:39,Laki-laki,September,165,45,2,5,Kos,Jakarta,Negeri,SMAN 70 JAKARTA,Bercocok Tanam,Fisika,MIPA K
+8/30/2023 18:31,Perempuan,November,162,52,2,40,Dengan Orang Tua,Depok,Swasta,SMA Avicenna Cinere,nonton series/film,Kimia,MIPA F
+8/30/2023 19:31,Laki-laki,Desember,169,72,2,2,Dengan Saudara,Tangerang,Negeri,SMAN 97 Jakarta,cerita,Aktuaria,Matematika C
+8/30/2023 19:47,Laki-laki,Januari,176,62,2,3,Kos,Tangerang,Negeri,SMAN 8 Kota Tangerang,Membaca,Geologi,MIPA K
+8/30/2023 19:49,Laki-laki,November,165,54,2,4,Kos,Bekasi,Negeri,SMAN 2 BEKASI,Traveling,Geologi,MIPA K
+8/30/2023 19:53,Laki-laki,November,166,50,3,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 Tana Toraja,Berolahraga,Geofisika,MIPA K
+8/30/2023 19:55,Perempuan,Oktober,161,63,5,5,Dengan Orang Tua,Bogor,Negeri,SMAN 2 CIBINONG,"Nonton film (Horror indonesia,korean,china)",Geologi,MIPA K
+8/30/2023 20:09,Perempuan,Maret,163,42,3,15,Kos,Bogor,Negeri,SMAN 3 Bogor,Menonton & menyanyi,Kimia,MIPA F
+8/30/2023 20:09,Laki-laki,Februari,172,61,1,3,Kos,Tangerang,Negeri,SMAN 23 Kabupaten Tangerang,Traveling,Geologi,MIPA A
+8/30/2023 20:22,Perempuan,September,158,54,2,4,Kos,Bekasi,Negeri,SMAN 12 Jakarta,Membaca,Kimia,MIPA F
+8/30/2023 20:30,Laki-laki,Juli,160,72,1,2,Dengan Orang Tua,Jakarta,Swasta,SMAI Al-Azhar 4 KP,Fotografi,Geofisika,MIPA K
+8/30/2023 20:32,Perempuan,Desember,164,50,1,7,Dengan Orang Tua,Depok,Negeri,SMAN 5 Depok ,Menggambar ,Geologi,MIPA F
+8/30/2023 20:37,Perempuan,Agustus,155,40,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 13 Depok ,Fotografi,Fisika,MIPA F
+8/30/2023 20:47,Laki-laki,Mei,168,69,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 5 DEPOK,olahraga,Geofisika,MIPA F
+8/30/2023 21:18,Perempuan,Agustus,156,54,2,6,Dengan Orang Tua,Bogor,Swasta,SMA Rimba Madya Kota Bogor,Membaca,Fisika,MIPA K
+8/30/2023 21:20,Perempuan,Desember,161,68,2,3,Dengan Orang Tua,Depok,Negeri,SMAN 14 Depok,Menonton film/series dan dance,Geografi,MIPA I
+8/30/2023 21:27,Laki-laki,Desember,178,68,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 15 JAKARTA,Traveling,Fisika,MIPA K
+8/30/2023 21:50,Laki-laki,Juni,178,65,3,2,Dengan Orang Tua,Depok,Negeri,MAN 13 Jakarta,Olahraga,Geofisika,MIPA F
+8/30/2023 22:09,Laki-laki,Mei,165,55,1,4,Kos,Bekasi,Negeri,MAN 18 Jakarta,Futsal,Matematika,Matematika A
+8/30/2023 22:11,Perempuan,Mei,163,58,3,2,Kos,Bekasi,Negeri,SMA Negeri 5 Kota Bekasi,Membaca,Fisika,MIPA F
+8/30/2023 22:42,Laki-laki,Juni,168,60,0,4,Dengan Orang Tua,Bogor,Negeri,SMA Negeri 3 Cibinong,Bermain game,Fisika,MIPA K
+8/30/2023 23:19,Perempuan,Januari,157,79,1,6,Kos,Luar Jabodetabek,Negeri,SMAN 01 Mataram,Fotografi,Geofisika,MIPA K
+8/30/2023 23:29,Perempuan,Desember,163,43,1,3,Dengan Orang Tua,Depok,Negeri,SMA Negeri 66 Jakarta,Menonton kdrama.,Kimia,MIPA F
+8/31/2023 5:06,Perempuan,Juni,155,50,0,2,Dengan Orang Tua,Luar Jabodetabek,Swasta,MAS Sunan Pandanaran Yogyakarta,Membaca,Geofisika,MIPA F
+8/31/2023 6:13,Perempuan,Juli,157,63,1,2,Kos,Bogor,Swasta,SMAS Nurul Fikri Depok,Membaca,Kimia,MIPA F
+8/31/2023 6:47,Perempuan,Oktober,165,46,2,8,Kos,Tangerang,Negeri,SMAN 1 TANGERANG,Traveling,Geografi,MIPA A
+8/31/2023 7:25,Perempuan,Juli,160,65,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 2 Jakarta,Menonton,Kimia,MIPA F
+8/31/2023 7:30,Perempuan,November,150,40,1,3,Kos,Luar Jabodetabek,Negeri,SMA Negeri 4 Praya,Membaca,Geologi,MIPA K
+8/31/2023 7:51,Perempuan,Maret,168,65,1,3,Dengan Orang Tua,Depok,Swasta,SMA Bintara Depok ,Traveling,Geologi,MIPA K
+8/31/2023 7:55,Perempuan,Juni,163,55,0,1,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 9 MANADO ,Membaca,Geologi,MIPA K
+8/31/2023 8:30,Perempuan,Maret,158,51,3,3,Dengan Orang Tua,Depok,Negeri,SMAN 4 DEPOK ,menonton drama ,Geografi,MIPA K
+8/31/2023 9:03,Laki-laki,April,167,72,1,2,Kos,Bekasi,Negeri,SMA 2 BEKASI ,Badminton/olahraga ,Fisika,MIPA K
+8/31/2023 9:06,Perempuan,November,161,68,3,2,Dengan Saudara,Tangerang,Swasta,Bintang Pelajar IBS,Menonton Film,Fisika,MIPA K
+8/31/2023 9:23,Laki-laki,April,174 cm,47 kg,3,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 54 JAKARTA,Traveling,Geografi,MIPA F
+8/31/2023 9:31,Perempuan,Februari,165,50,3,4,Kos,Luar Jabodetabek,Negeri,SMA Negeri 1 Muara Teweh,Membaca,Geofisika,MIPA F
+8/31/2023 9:35,Laki-laki,Desember,178,68,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 15 JAKARTA,Traveling,Fisika,MIPA K
+8/31/2023 9:36,Perempuan,Desember,154,53,3,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,nyanyi,Matematika,Matematika C
+8/31/2023 9:56,Perempuan,September,155,80,1,3,Kos,Bekasi,Negeri,SMAN 1 CIKARANG BARAT ,Mendengarkan musik,Fisika,MIPA K
+8/31/2023 10:04,Laki-laki,Oktober,165,58,2,2,Kos,Depok,Swasta,SMAIT Insan Mandiri Cibubur,Menggambar,Geografi,MIPA F
+8/31/2023 10:05,Laki-laki,September,179,68,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 31 JAKARTA,Nonton,Fisika,MIPA F
+8/31/2023 10:06,Perempuan,November,155,50,2,6,Dengan Orang Tua,Tangerang,Negeri,SMAN 8 TANGERANG SELATAN,Traveling,Geografi,MIPA F
+8/31/2023 11:00,Laki-laki,September,175,70,3,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 90 Jakaeta,Apa aja,Geofisika,MIPA K
+8/31/2023 11:01,Laki-laki,Maret,165,55,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 93 Jakarta,Fotografi,Kimia,MIPA A
+8/31/2023 11:36,Laki-laki,November,178,82,0,10,Dengan Orang Tua,Jakarta,Negeri,SMAN 14 JAKARTA,Fotografi,Geologi,MIPA F
+8/31/2023 12:31,Laki-laki,Maret,186,84,1,2,Dengan Orang Tua,Depok,Negeri,SMAN 13 Depok,Menyanyi dan Mendengarkan Musik,Geografi,MIPA E
+8/31/2023 12:54,Laki-laki,Mei,172,110,0,3,Dengan Orang Tua,Depok,Swasta,SMA Labschool Cibubur,Main Game,Statistika,Matematika A
+8/31/2023 15:28,Perempuan,Maret,164,47,1,3,Kos,Bogor,Negeri,SMAN 1 Bogor,Menonton film,Geofisika,MIPA F
+8/31/2023 16:52,Perempuan,September,156,47,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 29 Jakarta,menonton film,Geologi,MIPA F
+8/31/2023 18:32,Perempuan,Maret,158,60,4,5,Dengan Orang Tua,Jakarta,Swasta,MAS Annajah,Membaca,Matematika,Matematika A
+8/31/2023 19:47,Laki-laki,Desember,184,58,1,2,Dengan Saudara,Bogor,Negeri,MAN 2 CIANJUR,Membaca,Geologi,MIPA A
+8/31/2023 19:54,Perempuan,September,165cm,62kg,2,7,Dengan Orang Tua,Jakarta,Negeri,SMAN 68 Jakarta,Traveling,Geofisika,MIPA I
+8/31/2023 21:10,Perempuan,Januari,170,78,2,2,Dengan Saudara,Luar Jabodetabek,Negeri,SMAN 4 PEKANBARU ,Bercocok Tanam,Geologi,MIPA E
+9/1/2023 4:15,Perempuan,September,163,60,2,1,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 42 Jakarta,Traveling,Geografi,MIPA A
+9/1/2023 5:57,Perempuan,April,153,60,1,3 pasang,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 JAKARTA ,Nonton film ,Geografi,MIPA C
+9/1/2023 9:02,Perempuan,Desember,154,53,3,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 38 Jakarta,nyanyi,Matematika,Matematika C
+9/1/2023 9:21,Perempuan,Maret,165,42,2,1,Kos,Luar Jabodetabek,Negeri,MAN 2 Pekanbaru,bersihin kamar,Statistika,Matematika C
+9/1/2023 10:48,Laki-laki,Oktober,175,85,1,2,Dengan Orang Tua,Jakarta,Negeri,MAN 13 Jakarta,Traveling,Geografi,MIPA F
+9/1/2023 13:25,Perempuan,Juli,157,63,2,5,Kos,Jakarta,Negeri,SMAN 77 Jakarta,Traveling,Statistika,Matematika C
+9/1/2023 13:25,Laki-laki,Mei,167,67,4,3,Kos,Luar Jabodetabek,Swasta,MAS DARUL MURSYID ,Membaca,Aktuaria,Matematika C
+9/1/2023 13:41,Laki-laki,November,165,52,3,4,Kos,Jakarta,Swasta,SMAS LABSCHOOL JAKARTA,Olahraga,Matematika,Matematika C
+9/1/2023 14:13,Perempuan,September,165,50,2,5,Dengan Orang Tua,Depok,Negeri,SMAN 1 JAKARTA,Membaca,Statistika,Matematika A
+9/1/2023 14:13,Laki-laki,Oktober,160,55,0,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 1 Jakarta ,Membaca,Statistika,Matematika A
+9/2/2023 0:39,Laki-laki,September,178,75,4,4,Dengan Orang Tua,Jakarta,Swasta,SMAM 5 JAKARTA (sma muhammadiyah 5 jakarta),"bermusik, foto dan videografi, editing, nyanyi, nulis lagu",Fisika,MIPA K
+9/2/2023 21:57,Perempuan,Agustus,150,38,0,5,Dengan Orang Tua,Depok,Negeri,MAN 4 Jakarta,Membaca,Kimia,MIPA B
+9/2/2023 21:58,Perempuan,Juni,157,52 kg,2,8,Kos,Luar Jabodetabek,Negeri,SMAN 1 BULUKUMBA,nonton,Aktuaria,Matematika B
+9/2/2023 21:59,Laki-laki,Maret,171,74,2,5,Kos,Bogor,Negeri,Sman1 bogor,Fotografi,Geofisika,MIPA B
+9/2/2023 22:00,Perempuan,Januari,157,52,1,3,Dengan Orang Tua,Bekasi,Swasta,SMA Strada Bhakti Wiyata,Dance,Aktuaria,Matematika B
+9/2/2023 22:01,Laki-laki,April,165,45,4,3,Dengan Orang Tua,Tangerang,Swasta,SMA Triguna Jakarta,Bermain bersama teman,Geologi,MIPA B
+9/2/2023 22:02,Perempuan,Juni,156,45,2,5,Dengan Orang Tua,Bekasi,Negeri,SMAN 89 JAKARTA ,Membaca,Geografi,MIPA B
+9/2/2023 22:02,Laki-laki,April,165,45,4,3,Dengan Orang Tua,Jakarta,Swasta,SMA Triguna Jakarta,Bermain bersama teman,Geologi,MIPA B
+9/2/2023 22:02,Laki-laki,Maret,172,58,3,3,Kos,Tangerang,Swasta,SMA AL-AZHAR PUSAT 3,Traveling,Geofisika,MIPA B
+9/2/2023 22:04,Perempuan,Desember,161,66,1,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 104 Jakarta,Traveling,Kimia,MIPA B
+9/2/2023 22:07,Laki-laki,Februari,183,135,2,2,Kos,Tangerang,Swasta,SMA Labschool Kebayoran ,Main Billiard,Geofisika,MIPA B
+9/2/2023 22:07,Laki-laki,Februari,179,89,-,3,Kos,Luar Jabodetabek,Negeri,SMA Negeri 1 Karawang,Mendengar musik,Kimia,MIPA B
+9/2/2023 22:14,Perempuan,September,163,61 kg,1,4,Kos,Bogor,Swasta,SMA Kristen Ketapang III Cibubur ,Membaca,Matematika,Matematika B
+9/2/2023 22:15,Perempuan,Oktober,159,39,4,2,Dengan Orang Tua,Bekasi,Negeri,SMAN 13 Bekasi,Mendengarkan musik,Matematika,Matematika B
+9/2/2023 22:16,Perempuan,Maret,162,45,3,1,Kos,Bekasi,Negeri,SMA Negeri 2 Setu,Bernyanyi,Geologi,MIPA B
+9/2/2023 22:21,Perempuan,Februari,160,60,4,2,Kos,Tangerang,Negeri,MAN 1 Kota Tangerang,Menyanyi,Fisika,MIPA B
+9/2/2023 22:30,Laki-laki,Februari,170,57,2,4,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 14 Jakarta,"Mendengarkan Musik, Belajar",Aktuaria,Matematika B
+9/2/2023 22:43,Laki-laki,Juni,163,43,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 GRESIK,Membaca,Aktuaria,Matematika B
+9/2/2023 23:15,Laki-laki,Februari,180,85,2,2,Kos,Luar Jabodetabek,Swasta,SMA KATOLIK RAJAWALI,Denger musik,Aktuaria,Matematika B
+9/2/2023 23:22,Perempuan,Desember,158,67,1,5,Kos,Bogor,Negeri,SMAN 1 Bogor,Traveling,Statistika,Matematika B
+9/2/2023 23:34,Laki-laki,Maret,179,60,4,2,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 2 BALIGE ,Futsal & Catur,Statistika,Matematika B
+9/3/2023 0:40,Perempuan,Desember,167,50,2,3,Kos,Bekasi,Swasta,SMAI PB Soedirman 2 Bekasi,Mendengarkan musik,Fisika,MIPA B
+9/3/2023 3:53,Perempuan,Agustus,170 cm,46 kg,1,4,Kos,Jakarta,Negeri,SMAN 90 Jakarta,"Mendengarkan musik, nonton",Matematika,Matematika B
+9/3/2023 5:25,Perempuan,November,165,50,4,5,Kos,Luar Jabodetabek,Negeri,SMAN 2 Kota Cirebon,Fotografi,Kimia,Matematika B
+9/3/2023 5:42,Laki-laki,Mei,177,76,2,2,Kos,Luar Jabodetabek,Swasta,SMAS Budi Mulia,gym,Aktuaria,Matematika B
+9/3/2023 6:00,Perempuan,Maret,162,58,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 58 Jakarta,Membaca,Kimia,MIPA B
+9/3/2023 6:01,Laki-laki,Agustus,160,37,1,1,Dengan Orang Tua,Jakarta,Negeri,SMAN 59 JAKARTA,Mendengarkan musik/lagu2 positif,Fisika,MIPA B
+9/3/2023 6:01,Laki-laki,November,170,55,1,4,Dengan Orang Tua,Depok,Negeri,SMAN 1 DEPOK,Traveling,Geologi,MIPA B
+9/3/2023 6:54,Perempuan,November,153,36,2,3,Dengan Orang Tua,Bekasi,Negeri,SMAN 31 Jakarta,Membaca,Geografi,MIPA B
+9/3/2023 6:55,Perempuan,April,167,73,3,2,Kos,Bekasi,Negeri,SMAN 99 Jakarta,Kulineran,Aktuaria,Matematika B
+9/3/2023 7:23,Perempuan,Juli,160,51,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 48 Jakarta,Membaca,Aktuaria,Matematika B
+9/3/2023 7:32,Perempuan,Februari,153 cm,39 kg,1,6,Kos,Tangerang,Swasta,SMAS Candle Tree,Design,Aktuaria,Matematika B
+9/3/2023 7:54,Perempuan,Agustus,163,47,4,3,Kos,Bekasi,Swasta,SMAIT AL-MULTAZAM,Membaca,Statistika,Matematika D
+9/3/2023 7:55,Perempuan,Januari,158 cm,55 kg,0,3,Kos,Luar Jabodetabek,Negeri,SMAN 2 Purwakarta,Membaca,Statistika,Matematika B
+9/3/2023 7:58,Laki-laki,Maret,167,58,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 6 Bandung,Mendengarkan musik,Matematika,Matematika D
+9/3/2023 7:58,Laki-laki,Desember,178,63,2,2,Kos,Luar Jabodetabek,Swasta,SMA Ignatius Global School Palembang,Olahraga voli,Matematika,Matematika D
+9/3/2023 8:01,Perempuan,Juli,155,65,1,4,Dengan Orang Tua,Bekasi,Negeri,SMA Negeri 8 Jakarta,Menggambar,Geografi,MIPA H
+9/3/2023 8:01,Perempuan,November,160,88,1,3,Dengan Orang Tua,Jakarta,Swasta,Sma Labschool Kebayoran,main musik,Matematika,Matematika D
+9/3/2023 8:06,Perempuan,Desember,160,43,2,5,Dengan Orang Tua,Bekasi,Negeri,SMAN 1 Tambun Selatan,Membaca,Matematika,Matematika D
+9/3/2023 8:08,Laki-laki,Maret,180,84,3,3,Dengan Orang Tua,Bekasi,Swasta,SMAS Global Persada Mandiri,Fotografi,Fisika,MIPA B
+9/3/2023 8:08,Laki-laki,Januari,183,70,0,1,Dengan Orang Tua,Jakarta,Negeri,SMAN 34 Jakarta,Olahraga,Matematika,Matematika D
+9/3/2023 8:14,Perempuan,Februari,155,49,2,5,Dengan Orang Tua,Jakarta,Swasta,SMAS Islam PB Soedirman Jakarta,Vlogging,Geografi,MIPA H
+9/3/2023 8:14,Perempuan,September,161,49,2,3,Dengan Orang Tua,Bogor,Negeri,SMA Negeri 6 bogor,Olahraga,Fisika,MIPA H
+9/3/2023 8:16,Laki-laki,Juni,185,65,2,2,Dengan Orang Tua,Bekasi,Swasta,SMA YADIKA 11 ,Bermain gitar,Geografi,MIPA H
+9/3/2023 8:16,Perempuan,Maret,156,45,3,3,Dengan Orang Tua,Bogor,Negeri,SMAN 2 Cibinong ,Membaca,Geografi,MIPA H
+9/3/2023 8:18,Perempuan,Desember,150,56,2,3,Dengan Orang Tua,Depok,Negeri,SMAN 1 DEPOK,"Menonton film, mendengarkan musik",Matematika,Matematika D
+9/3/2023 8:18,Laki-laki,Mei,168,45,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 14 JAKARTA ,bermain futsal dan billiard ,Geografi,MIPA H
+9/3/2023 8:19,Perempuan,April,150,47,3,4,Dengan Saudara,Luar Jabodetabek,Negeri,SMAN 1 KERTOSONO ,Bercocok Tanam,Statistika,Matematika D
+9/3/2023 8:20,Perempuan,Juni,161,57 kg,3,2,Kos,Luar Jabodetabek,Negeri,SMAN Sumatera Selatan,Traveling,Matematika,Matematika D
+9/3/2023 8:21,Laki-laki,Juni,173,55,4,2,Dengan Orang Tua,Depok,Swasta,SMAS PGRI Cibinong,"Bermain game,berolahraga",Kimia,MIPA H
+9/3/2023 8:22,Perempuan,November,160,65,2,3,Kos,Bekasi,Swasta,SMAK Penabur Kota Wisata,mendengarkan musik,Matematika,Matematika D
+9/3/2023 8:22,Perempuan,April,"154,7 cm",50 kg,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 2 DEPOK,Traveling,Aktuaria,Matematika D
+9/3/2023 8:27,Perempuan,Januari,152,60,1,2,Kos,Luar Jabodetabek,Swasta,SMA Ignatius Global School ,Traveling,Aktuaria,Matematika B
+9/3/2023 8:31,Laki-laki,Oktober,178,65,3,2,Dengan Saudara,Jakarta,Negeri,SMAN 30 JAKARTA,Membaca,Matematika,Matematika D
+9/3/2023 8:35,Perempuan,Desember,160,46,2,>10,Dengan Orang Tua,Jakarta,Negeri,SMAN 113 JKT,Menonton film dan mendengarkan musik,Matematika,Matematika B
+9/3/2023 8:37,Perempuan,September,157,57,2,5,Dengan Orang Tua,Jakarta,Negeri,sman 38,Traveling,Geologi,MIPA H
+9/3/2023 8:47,Perempuan,Juni,158,46,2,6,Dengan Orang Tua,Jakarta,Negeri,SMAN 70,Menonton film,Matematika,MIPA F
+9/3/2023 8:47,Perempuan,Oktober,166,58,2,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 81 Jakarta,Musik,Aktuaria,Matematika B
+9/3/2023 8:52,Laki-laki,Mei,164,50,2,4,Dengan Orang Tua,Depok,Negeri,SMAN 1 Kota Depok,Olahraga,Geologi,MIPA H
+9/3/2023 8:54,Perempuan,September,160,52,1,6,Dengan Orang Tua,Jakarta,Negeri,SMAN 19 Jakarta,Membaca,Statistika,Matematika D
+9/3/2023 8:56,Laki-laki,Mei,188,64,2,1,Dengan Orang Tua,Depok,Negeri,SMAN 49 Jakarta ,Futsal,Matematika,Matematika D
+9/3/2023 9:06,Perempuan,Februari,164,65,1,2,Dengan Orang Tua,Jakarta,Negeri,Man 15 jakarta,Traveling,Fisika,MIPA B
+9/3/2023 9:08,Laki-laki,Oktober,156,48,3,2,Kos,Luar Jabodetabek,Swasta,SMA Al-Mazaya Islamic School,Membaca,Matematika,Matematika D
+9/3/2023 9:13,Perempuan,Mei,165 cm,56 cm,2,3,Dengan Orang Tua,Bogor,Negeri,SMAN 2 Cibinong,Membaca,Matematika,Matematika D
+9/3/2023 9:17,Perempuan,Agustus,148,35,1,2,Kos,Luar Jabodetabek,Swasta,MA Nw Senyiur,Membaca,Kimia,MIPA H
+9/3/2023 9:18,Perempuan,Mei,150,56 kg,2,6,Kos,Bogor,Negeri,MAN 1 BOGOR ,nonton film dan explore hal-hal baru ,Fisika,MIPA J
+9/3/2023 9:20,Laki-laki,Juli,168,61,2,2,Kos,Bogor,Swasta,Regina Pacis Bogor,Musik,Statistika,Matematika D
+9/3/2023 9:29,Perempuan,Februari,163,59,1,3,Dengan Orang Tua,Jakarta,Negeri,SMAN 55 Jakarta,Fotografi,Aktuaria,Matematika D
+9/3/2023 9:34,Perempuan,Januari,165,60,1,5,Kos,Jakarta,Negeri,SMAN 13 JKT,menonton ,Aktuaria,Matematika D
+9/3/2023 9:36,Perempuan,Maret,151,49,3,4,Kos,Jakarta,Negeri,SMA N 13 Jakarta,Membaca,Statistika,Matematika D
+9/3/2023 9:37,Perempuan,Desember,160cm,58kg,1,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 55 JAKARTA ,Bermain Basket ,Geologi,MIPA H
+9/3/2023 9:38,Perempuan,Oktober,160,61,1,3,Dengan Orang Tua,Bekasi,Swasta,SMAS Jakarta Islamic School,Membuat kue,Kimia,MIPA B
+9/3/2023 9:43,Laki-laki,April,180,80,1,2,Kos,Bogor,Negeri,SMAN 12 KOTA TANGERANG SELATAN ,mendengarkan musik,Fisika,MIPA H
+9/3/2023 9:45,Perempuan,Oktober,165,40,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 82 Jakarta,nonton film,Matematika,Matematika B
+9/3/2023 9:48,Perempuan,April,152,41,3,2,Dengan Saudara,Luar Jabodetabek,Negeri,SMAN 1 BENGKULU SELATAN ,Nonton ,Fisika,MIPA H
+9/3/2023 9:50,Perempuan,September,157,52,3,9,Dengan Orang Tua,Depok,Negeri,SILN Jeddah,nonton,Statistika,Matematika B
+9/3/2023 10:00,Perempuan,Januari,156,44,2,3,Kos,Bekasi,Negeri,SMAN 44 Jakarta,Fotografi,Statistika,Matematika D
+9/3/2023 10:11,Perempuan,Juni,155,45,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 3 Jakarta,nonton film,Statistika,Matematika D
+9/3/2023 10:20,Laki-laki,Maret,172,86,2,3,Dengan Orang Tua,Jakarta,Swasta,SMAS Dipo 1 Jakarta Timur,Membaca,Matematika,Matematika D
+9/3/2023 10:27,Laki-laki,Januari,170,105,2,1,Dengan Orang Tua,Jakarta,Negeri,SMAN 37 Jakarta,Traveling,Geografi,MIPA H
+9/3/2023 10:35,Perempuan,September,168,58,1,5,Kos,Tangerang,Negeri,SMAN 34 Jakarta,Membaca,Aktuaria,Matematika D
+9/3/2023 10:45,Perempuan,September,167,40,0,6,Kos,Jakarta,Negeri,SMAN 21 Jakarta,baking,Statistika,Matematika D
+9/3/2023 10:47,Perempuan,Desember,161,63 kg,1,3,Dengan Orang Tua,Jakarta,Swasta,SMA Lazuardi GCS,Membaca,Geografi,MIPA B
+9/3/2023 10:56,Laki-laki,Februari,160,43,2,1,Dengan Orang Tua,Bogor,Negeri,SMAN 4 Cibinong,Mengerjakan soal Matematika yang seru dan tidak susah,Statistika,Matematika D
+9/3/2023 10:57,Perempuan,Maret,156,51,1,3,Dengan Orang Tua,Bekasi,Negeri,Man 2 bekasi,Membaca,Geografi,MIPA H
+9/3/2023 10:58,Laki-laki,Desember,177,57,2,2,Dengan Orang Tua,Depok,Swasta,SMA IT Nurul Fikri Depok,Traveling,Aktuaria,Matematika D
+9/3/2023 11:34,Perempuan,Desember,149,37,1,36,Dengan Orang Tua,Jakarta,Swasta,sumbangsih,mendengarkan musik,Geografi,MIPA H
+9/3/2023 11:37,Perempuan,Maret,165,47,2,5,Kos,Tangerang,Swasta,SMAK PENABUR Kota Tangerang,Mendengarkan musik,Statistika,Matematika D
+9/3/2023 11:43,Perempuan,Juni,155 cm,39 kg,2,4,Dengan Orang Tua,Jakarta,Swasta,SMAIT Assyifa Boarding School Wanareja,nonton dan nyanyi,Geografi,MIPA H
+9/3/2023 12:02,Perempuan,Juli,155,52,0,2,Kos,Bekasi,Negeri,SMAN 8 Jakarta,Traveling,Aktuaria,Matematika B
+9/3/2023 12:04,Laki-laki,Juli,175,66,1,2,Dengan Orang Tua,Tangerang,Swasta,SMA Katolik Sang Timur,main game,Matematika,Matematika B
+9/3/2023 12:12,Perempuan,Januari,160,51,0,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 70 Jakarta,Membaca,Geofisika,MIPA B
+9/3/2023 12:28,Laki-laki,September,171,73,2,3,Dengan Orang Tua,Depok,Swasta,SMAIT As-Syifa Boarding School,Badminton,Kimia,MIPA H
+9/3/2023 12:44,Laki-laki,September,180 cm,64 kg,1,2,Dengan Orang Tua,Bekasi,Swasta,SMA Islam Al Azhar 4 Kemang Pratama Bekasi,olahraga,Geografi,MIPA H
+9/3/2023 12:53,Laki-laki,Maret,172,69,2,4,Dengan Orang Tua,Depok,Negeri,SMAN 6 Depok,olahraga,Geografi,MIPA H
+9/3/2023 13:53,Perempuan,Maret,155,54,1,2,Kos,Jakarta,Swasta,SMA Islam PB Soedirman Cijantung,Membaca,Kimia,MIPA H
+9/3/2023 14:20,Perempuan,Juni,160,63,2,> 5,Dengan Orang Tua,Jakarta,Negeri,SMAN 3 Jakarta,Membaca,Statistika,Matematika D
+9/3/2023 15:40,Laki-laki,Juni,180,70,2,2,Dengan Orang Tua,Jakarta,Swasta,SMA Labschool Kebayoran,Membaca,Statistika,Matematika B
+9/3/2023 15:56,Perempuan,Mei,165,58,2,3,Dengan Orang Tua,Jakarta,Swasta,SMAK 1 PENABUR Jakarta,mendengarkan lagu,Aktuaria,Matematika D
+9/3/2023 16:24,Laki-laki,Oktober,170,57,2,5,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 3 Jakarta ( TELADAN ),Basket,Geofisika,MIPA B
+9/3/2023 18:37,Laki-laki,Februari,173,56,2,5,Kos,Tangerang,Negeri,SMAN 66 Jakarta,basket,Geologi,MIPA H
+9/3/2023 18:42,Laki-laki,Mei,170,65,3,4,Kos,Jakarta,Negeri,SMAN 13 JAKARTA,Traveling,Geologi,MIPA C
+9/3/2023 18:52,Laki-laki,Mei,170,65,3,4,Kos,Jakarta,Negeri,SMAN 13 JAKARTA,Traveling,Geologi,MIPA C
+9/3/2023 18:59,Laki-laki,Juli,170,75,3,2,Dengan Orang Tua,Jakarta,Swasta,SMA IT ASSYIFA ,Traveling,Geologi,MIPA C
+9/3/2023 19:06,Laki-laki,Desember,168,70,1,3,Dengan Orang Tua,Bekasi,Negeri,SMAN 2 Bekasi ,Musik,Geografi,MIPA E
+9/3/2023 19:07,Perempuan,Oktober,150,42,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 47 Jakarta,Traveling,Fisika,MIPA E
+9/3/2023 19:07,Laki-laki,Oktober,168,56,0,2,Dengan Orang Tua,Bogor,Negeri,SMAN 10 Bogor ,Menonton film ,Geologi,MIPA E
+9/3/2023 19:11,Laki-laki,Januari,169,62,0,5 kayanya,Dengan Orang Tua,Depok,Swasta,SMAIT TUNAS BANGSA DEPOK,berolahraga dan bermain game,Kimia,MIPA E
+9/3/2023 19:20,Perempuan,Mei,157,54,1,3,Kos,Bekasi,Negeri,SMAN 8 BEKASI,Basket,Fisika,MIPA E
+9/3/2023 19:21,Perempuan,November,151,40,1,2,Dengan Orang Tua,Bogor,Negeri,SMAN 9 BOGOR,Membaca,Geologi,MIPA E
+9/3/2023 19:29,Laki-laki,April,165,57,1,1,Dengan Orang Tua,Jakarta,Negeri,MAN 3 Jakarta ,Bercocok Tanam,Geografi,MIPA E
+9/3/2023 19:32,Perempuan,Mei,162,72,1,3,Dengan Orang Tua,Depok,Swasta,SMAI Dian Didaktika,Menonton film,Geologi,MIPA H
+9/3/2023 19:39,Laki-laki,Mei,165,63,4,2,Dengan Orang Tua,Jakarta,Swasta,MAS Plus Abu Hurairah Mataram,Fotografi,Geografi,MIPA E
+9/3/2023 19:50,Perempuan,Desember,148,52,4,3,Kos,Luar Jabodetabek,Negeri,MAN Insan Cendekia Gorontalo,Membaca,Matematika,Matematika C
+9/3/2023 19:59,Perempuan,Oktober,161,55,2,4,Dengan Orang Tua,Bogor,Negeri,MAN 1 Bogor,"Berenang, memasak, mencoba hal baru yang positif",Geofisika,MIPA E
+9/3/2023 20:08,Perempuan,Maret,163,50,1,3,Dengan Orang Tua,Jakarta,Negeri,SMKN 52 Jakarta,Membaca,Geologi,MIPA E
+9/3/2023 20:17,Laki-laki,April,180,90,1,7,Dengan Orang Tua,Depok,Negeri,SMAN 28 JAKARTA,Membaca,Statistika,Matematika D
+9/3/2023 20:44,Perempuan,Oktober,152 cm,48 kg,1,5,Dengan Orang Tua,Bekasi,Swasta,SMA Regina Caeli,menggambar,Fisika,MIPA A
+9/3/2023 21:01,Laki-laki,Oktober,170,50,2,2,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 67 Jakarta,Fotografi,Geografi,MIPA E
+9/3/2023 23:03,Laki-laki,Agustus,172,62,2,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 8 Jakarta,Bermain musik,Aktuaria,Matematika D
+9/4/2023 0:13,Laki-laki,April,165,57,3,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 Kota Besi,Fotografi,Geografi,MIPA E
+9/4/2023 5:59,Perempuan,Oktober,155,49,2,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 70 Jakarta,mendengarkan lagu,Geofisika,MIPA B
+9/4/2023 6:23,Perempuan,Oktober,163,64,1,3,Dengan Orang Tua,Tangerang,Swasta,SMAS Kharisma Bangsa,Membaca,Geologi,MIPA E
+9/4/2023 6:28,Perempuan,Desember,156,57,1,5,Kos,Tangerang,Negeri,SMAN 90 JAKARTA ,Membaca,Statistika,Matematika B
+9/4/2023 6:52,Laki-laki,Februari,184,120,1,6,Kos,Tangerang,Negeri,SMAN 70 Jakarta,bola basket,Geologi,MIPA E
+9/4/2023 7:05,Perempuan,November,157,49,3,4,Kos,Luar Jabodetabek,Negeri,SMAN 1 RAYA,Membaca,Geografi,MIPA A
+9/4/2023 7:44,Perempuan,September,160,50,2,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 34 Jakarta,Membaca,Matematika,Matematika D
+9/4/2023 7:47,Laki-laki,November,166,54,53,3,Dengan Orang Tua,Bogor,Swasta,SMAIT Ummul Quro Bogor,Olahraga,Statistika,Matematika D
+9/4/2023 7:50,Laki-laki,Maret,176,58,3,2,Dengan Orang Tua,Bogor,Negeri,SMAN 1 BOGOR,Olahraga,Fisika,MIPA H
+9/4/2023 7:52,Laki-laki,Januari,166,46,1,3,Kos,Luar Jabodetabek,Negeri,SMAN 1 Sukagumuiwang,Pingpong,Kimia,Matematika C
+9/4/2023 7:57,Perempuan,Agustus,165,62,1,15,Dengan Orang Tua,Jakarta,Negeri,SMAN 28 Jakarta,Make up,Aktuaria,Matematika B
+9/4/2023 8:57,Laki-laki,Oktober,178,70,2,2,Dengan Orang Tua,Jakarta,Swasta,SMAIT ASSYIFA BOARDING SCHOOL,Bermain game,Matematika,Matematika D
+9/4/2023 8:58,Laki-laki,September,178,52,2,7,Dengan Orang Tua,Jakarta,Negeri,91 Jakarta ,Menggambar ,Fisika,MIPA B
+9/4/2023 8:59,Perempuan,Februari,160,52,2,1,Dengan Orang Tua,Depok,Negeri,SMAN 3 Depok,Membaca,Geofisika,MIPA B
+9/4/2023 8:59,Perempuan,Februari,163,49,3,2,Kos,Luar Jabodetabek,Negeri,Sman 11 bandung,Traveling,Fisika,MIPA B
+9/4/2023 8:59,Laki-laki,Desember,171,72,1,4,Dengan Orang Tua,Depok,Negeri,SMA 1 Depok,Traveling,Fisika,MIPA B
+9/4/2023 9:00,Laki-laki,Mei,183,78,2,3,Dengan Orang Tua,Jakarta,Swasta,Jakarta Islamic School,Olahraga,Fisika,MIPA B
+9/4/2023 9:00,Perempuan,Mei,155,43,0,10,Dengan Orang Tua,Jakarta,Swasta,SMA Islam PB Soedirman ,Membaca,Kimia,MIPA B
+9/4/2023 9:00,Laki-laki,Desember,175,63,3,2,Dengan Orang Tua,Depok,Swasta,SMA Islam Al Azhar 19,Membaca,Geografi,MIPA B
+9/4/2023 9:18,Laki-laki,Januari,170,60kg,4,2,Dengan Orang Tua,Bogor,Swasta,SMAS RK SANTA MARIA PAKKAT,nyanyi,Matematika,Matematika D
+9/4/2023 9:24,Laki-laki,Mei,168,53,0,3,Kos,Jakarta,Swasta,SMA Muhammadiyah 3 Jakarta,Olahraga,Geofisika,MIPA F
+9/4/2023 9:39,Laki-laki,Januari,160,50,3,4,Dengan Orang Tua,Depok,Swasta,SMA Sejahtera 1 Depok,Membaca,Geofisika,MIPA B
+9/4/2023 9:56,Perempuan,Januari,155 cm,46 kg,3,3,Kos,Luar Jabodetabek,Swasta,MA MUALLIMAT NWDI PANCOR,Membaca,Kimia,MIPA D
+9/4/2023 9:56,Perempuan,Juni,165,60,1,3,Dengan Orang Tua,Depok,Negeri,SMAN 66,musik,Geografi,MIPA D
+9/4/2023 9:57,Laki-laki,Februari,162,54,1,2,Dengan Orang Tua,Jakarta,Negeri,SMAN 78 JAKARTA,Membaca,Kimia,MIPA D
+9/4/2023 9:57,Perempuan,Juli,155 cm,40 kg,7,1,Kos,Luar Jabodetabek,Negeri,SMA NEGERI 1 PARIGI,"Masak,menggambar,ngelawak.",Fisika,MIPA D
+9/4/2023 10:02,Laki-laki,Agustus,160,50,3,2,Kos,Luar Jabodetabek,Negeri,SMA Negeri 1 Slawi,Traveling,Geografi,MIPA D
+9/4/2023 10:24,Perempuan,Juli,160,48,2,3,Kos,Jakarta,Swasta,SMAK 3 PENABUR Jakarta,Bernyanyi,Aktuaria,Matematika D
+9/4/2023 10:28,Laki-laki,September,174,69,1,4,Dengan Orang Tua,Depok,Negeri,SMAN 3 Depok,Olahraga,Geofisika,MIPA G
+9/4/2023 10:31,Perempuan,Februari,155 cm,42 kg,2,3 pasang,Dengan Orang Tua,Depok,Negeri,SMAN 4 Depok,Menggambar,Geofisika,MIPA H
+9/4/2023 10:48,Perempuan,Juni,156,57,1,3,Dengan Orang Tua,Depok,Negeri,SMA Negri 66 Jakarta,berenang,Geografi,MIPA D
+9/4/2023 11:21,Laki-laki,Maret,167,53,4,1,Dengan Orang Tua,Jakarta,Swasta,MAS Kafila,Membaca,Matematika,Matematika D
+9/4/2023 11:41,Perempuan,Juni,153,46,3,1,Kos,Bekasi,Swasta,SMA Islam PB Soedirman,Membaca,Geografi,MIPA H
+9/4/2023 11:51,Laki-laki,Oktober,173,58,1,2,Kos,Bogor,Swasta,SMA Kesatuan Bogor,Bermain Game,Matematika,Matematika D
+9/4/2023 12:50,Perempuan,Desember,158,65,1,5,Dengan Orang Tua,Depok,Negeri,SMAN 3 Depok,nonton film,Matematika,Matematika B
+9/4/2023 13:53,Perempuan,April,165,55,2,1,Dengan Orang Tua,Jakarta,Negeri,SMAN 39 Jakarta,Traveling,Fisika,MIPA J
+9/4/2023 15:09,Perempuan,April,157,45,1,3,Dengan Orang Tua,Tangerang,Swasta,SMA AL ADZKAR,Nonton film,Geofisika,MIPA J
+9/4/2023 15:09,Perempuan,Januari,156,65,2,4,Kos,Bekasi,Negeri,SMAN 1 BEKASI,Masak,Geografi,MIPA J
+9/4/2023 15:24,Perempuan,Mei,155,39,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 48 JAKARTA,Membaca,Kimia,MIPA D
+9/4/2023 15:51,Perempuan,Juni,143,60,3,4,Dengan Orang Tua,Jakarta,Negeri,SMAN 82 Jakarta,Mendengarkan Musik,Geologi,MIPA D
+9/4/2023 16:02,Laki-laki,Juli,185,87,3,3,Kos,Jakarta,Negeri,SMAN 21 JAKARTA,main game,Aktuaria,Matematika C
+9/4/2023 16:36,Perempuan,Januari,160,49,2,5,Dengan Orang Tua,Jakarta,Swasta,SMA Ibnu Hajar Boarding School,Membaca,Fisika,MIPA A
+9/4/2023 16:38,Perempuan,November,160,49,1,4-Mar,Dengan Orang Tua,Bekasi,Negeri,SMAN 5 Bekasi,nonton dan dengerin lagu,Aktuaria,Matematika B
+9/4/2023 16:39,Laki-laki,Oktober,170,55,3,1,Dengan Orang Tua,Jakarta,Negeri,SMANU MH Thamrin,Membaca,Aktuaria,Matematika B
+9/4/2023 16:42,Perempuan,November,160,64,1,2,Dengan Orang Tua,Bogor,Swasta,SMAS Regina Pacis,"badminton, basket",Matematika,Matematika B
+9/4/2023 17:30,Laki-laki,April,175,78,1,3,Kos,Jakarta,Swasta,SMA Labschool Kebayoran,olahraga,Aktuaria,Matematika B
+9/4/2023 17:35,Perempuan,Maret,162,54,2,5,Dengan Orang Tua,Jakarta,Negeri,SMAN 99 Jakarta,Traveling,Aktuaria,Matematika B
+9/4/2023 17:41,Laki-laki,Februari,169,56,2,5,Dengan Orang Tua,Jakarta,Negeri,SMA Negeri 14 Jakarta,Belajar,Aktuaria,Matematika B
+9/4/2023 18:53,Laki-laki,Juni,164,60,3,9,Dengan Orang Tua,Depok,Negeri,SMAN 34 JAKARTA,Membaca,Statistika,Matematika B
+9/4/2023 19:06,Perempuan,November,159,48,0,3,Dengan Orang Tua,Jakarta,Swasta,MAS Pembangunan UIN,Nonton,Statistika,Matematika B
